@@ -1,0 +1,3141 @@
+,name,institution,count
+0,Tom Griffiths,Princeton University,22
+1,Josh Tenenbaum,Massachusetts Institute of Technology,16
+2,Michael C. Frank,Stanford University,11
+3,Adam Sanborn,University of Warwick,10
+4,Brenden Lake,New York University,9
+5,Laura Schulz,Massachusetts Institute of Technology,9
+6,Jonathan Redshaw,University of Queensland,9
+7,Kenny Smith,University of Edinburgh,8
+8,Yan Gu,University of Essex,8
+9,Nick Chater,University of Warwick,8
+10,Tobias Gerstenberg,Stanford University,8
+11,Marcelo G Mattar,New York University,7
+12,Anna Papafragou,Unversity of Pennsylvania,7
+13,Janet Hsiao,Hong Kong University of Science & Technology,7
+14,Robert Hawkins,University of Wisconsin-Madison,7
+15,David Lagnado,University College London,7
+16,Tilbe Göksun,Koç University,6
+17,Jiahui Pan,South China Normal University,6
+18,Sashank Varma,Georgia Institute of Technology,6
+19,Jian-Qiao Zhu,Princeton University,6
+20,Lionel Wong,Massachusetts Institute of Technology,6
+21,Gregor Schöner,Ruhr-Universität Bochum,6
+22,Todd M Gureckis,New York University,6
+23,Julian Jara-Ettinger,Yale University,6
+24,Yun-Shiuan Chuang,University of Wisconsin-Madison,5
+25,Mark K Ho,Stevens Institute of Technology,5
+26,Jennifer Culbertson,University of Edinburgh,5
+27,Bettina von Helversen,University of Bremen,5
+28,Judith E. Fan,Stanford University,5
+29,Vera Demberg,Saarland University,5
+30,Lucas Castillo,University of Warwick,5
+31,Ulrike Hahn,"Birkbeck, University of London",5
+32,Tania Lombrozo,Princeton University,5
+33,Martin V. Butz,University of Tuebingen,5
+34,John Spencer,University of East Anglia,5
+35,John Trueswell,University of Pennsylvania,5
+36,Tom Stafford,University of Sheffield,5
+37,Tyler Marghetis,"University of California, Merced",5
+38,Timothy T Rogers,University of Wisconsin-Madison,5
+39,Andrew Perfors,University of Melbourne,5
+40,Anna Borghi,Sapienza University of Rome,5
+41,Ilia Sucholutsky,Princeton University,5
+42,Rebecca Saxe,Massachusetts Institute of Technology,5
+43,Raja Marjieh,Princeton University,5
+44,Ercenur Ünal,Özyeğin University,5
+45,Emily Morgan,"University of California, Davis",4
+46,Nele Russwinkel,Universität zu Lübeck,4
+47,Marjorie Rhodes,New York University,4
+48,Francis Mollica,University of Melbourne,4
+49,Daphna Buchsbaum,Brown University,4
+50,Kevin J. Holmes,Reed College,4
+51,Sabine Stoll,University of Zurich,4
+52,Johanna Falben,University of Amsterdam,4
+53,Ark Verma,Indian Institute of Technology Kanpur,4
+54,Celeste Kidd,"University of California, Berkeley",4
+55,Sarah Hye-yeon Lee,University of Pennsylvania,4
+56,Claudia Mazzuca,Sapienza University of Rome,4
+57,Julia Anne Leonard,Yale University,4
+58,Jonathan Cohen,Princeton University,4
+59,Henrik Singmann,University College London,4
+60,Antoni B. Chan,City University of Hong Kong,4
+61,Thomas Suddendorf,University of Queensland,4
+62,Kushin Mukherjee,University of Wisconsin-Madison,4
+63,Judith Degen,Stanford University,4
+64,Denis Tatone,Central European University,4
+65,Caren M. Walker,"University of California, San Diego",4
+66,Pablo Leon Villagra,Brown University,4
+67,Jessica Cantlon,Carnegie Mellon,4
+68,Simon Kirby,University of Edinburgh,4
+69,Simon De Deyne,University of Melbourne,4
+70,Bill Thompson,"University of California, Berkeley",4
+71,Marco Ragni,TU Chemnitz,4
+72,Siddharth Suresh,University of Wisconsin-Madison,4
+73,Alvin Wei Ming Tan,Stanford University,4
+74,Wim Pouw,Radboud University,4
+75,Stefan Kopp,Bielefeld University,4
+76,Paula Rubio-Fernández,Max Planck Institute for Psycholinguistics,4
+77,Dirk U Wulff,Max Planck Institute for Human Development,4
+78,Nori Jacoby,Max Planck Institute for Empirical Aesthetics,4
+79,Barbara Kaup,University of Tübingen,4
+80,Wei Ji Ma,New York University,4
+81,Yayun Zhang,Max Planck Institute for Psycholinguistics,3
+82,Michael J. Frank,Brown University,3
+83,Bertram F. Malle,Brown University,3
+84,Angelica Scuderi,Sapienza University of Rome,3
+85,Yoed Kenett,Technion - Israel Institute of Technology,3
+86,Tomer D. Ullman,Harvard University,3
+87,Michael Franke,University of Tübingen,3
+88,Chris Lucas,University of Edinburgh,3
+89,Kartik Chandra,Massachusetts Institute of Technology,3
+90,Max Siegel,Massachusetts Institute of Technology,3
+91,Julio Santiago,University of Granada,3
+92,Azzurra Ruggeri,Technical University Munich,3
+93,Barbara Pomiechowska,University of Birmingham,3
+94,Kenneth Kurtz,Binghamton University,3
+95,Benjamin Cowley,University of Helsinki,3
+96,Monica Bucciarelli,Università di Torino,3
+97,Ashley J Thomas,Harvard University,3
+98,Katerina Chladkova,"Institute of Psychology, Czech Academy of Sciences",3
+99,Charley M Wu,University of Tübingen,3
+100,Bonan Zhao,Princeton University,3
+101,Keith James Ransom,University of Adelaide,3
+102,Yang Xu,University of Toronto,3
+103,Bodo Winter,University of Birmingham,3
+104,Myrto Grigoroglou,University of Toronto,3
+105,Vikash Mansinghka,Massachusetts Institute of Technology,3
+106,Cengiz Acarturk,Jagiellonian University,3
+107,Nemanja Vaci,University of Sheffield,3
+108,Timothy Rogers,University of Wisconsin-Madison,3
+109,Qiong Zhang,Rutgers University - New Brunswick,3
+110,James Magnuson,University of Connecticut,3
+111,Peter Dayan,Max Planck Institute for Biological Cybernetics,3
+112,Jamal Amani Rad,Shahid Beheshti University,3
+113,Sergio E. Chaigneau,Adolfo Ibanez University,3
+114,Jake Spicer,University of Warwick,3
+115,Eric Schulz,Max Planck Institute for Biological Cybernetics,3
+116,Erik Leemhuis,Sapienza University of Rome,3
+117,Sebastian Musslick,Brown University,3
+118,Ivan Toni,Radboud University,3
+119,Eva Wittenberg,Central European University,3
+120,Fei Xu,"University of California, Berkeley",3
+121,Hyowon Gweon,Stanford University,3
+122,Frank Keil,Yale University,3
+123,Jarrod Moss,Mississippi State University,3
+124,Hiroki Fujita,University of Potsdam,3
+125,Rui Mata,University of Basel,3
+126,Gergely Csibra,Central European University,3
+127,Hidehito Honda,Otemon Gakuin University,3
+128,Hedderik van Rijn,University of Groningen,3
+129,Greg Woodin,University of Birmingham,3
+130,René Schlegelmilch,University of Bremen,3
+131,Roger Levy,Massachusetts Institute of Technology,3
+132,Roberto G. de Almeida,Concordia University,3
+133,Haijiang Yan,University of Warwick,3
+134,Hailin Hao,University of Southern California,3
+135,Rick Dale,"University of California, Los Angeles",3
+136,Ellie Pavlick,Brown University,3
+137,Patrick Shafto,Rutgers University - Newark,3
+138,Joshua K Hartshorne,Boston College,3
+139,Daniel Lassiter,University of Edinburgh,3
+140,Naoki Saijo,NTT Communication Science Laboratories,3
+141,Naomi H Feldman,University of Maryland,3
+142,Thomas Jan Wilschut,University of Groningen,3
+143,Nathaniel Daw,Princeton University,3
+144,Jonathan F. Kominsky,Central European University,3
+145,Jon Willits,University of Illinois at Urbana-Champaign,3
+146,Neil Cohn,Tilburg University,3
+147,Terry Eskenazi,Koc University,3
+148,Neil R. Bramley,University of Edinburgh,3
+149,Cynthia S.Q. Siew,National University of Singapore,3
+150,Daniel Benjamin Moritz Haun,Max Planck Institute for Evolutionary Anthropology,3
+151,Nick Haber,Stanford University,3
+152,Sydney Levine,Allen Institute for AI,3
+153,Eliana Colunga,University of Colorado Boulder,3
+154,Nils Wendel Heinrich,Universität zu Lübeck,3
+155,Steven Verheyen,Erasmus University Rotterdam,3
+156,Steven Piantadosi,"University of California, Berkeley",3
+157,Stephanie Denison,University of Waterloo,3
+158,Noah Goodman,Stanford University,3
+159,Stephan Hartmann,LMU Munich,3
+160,Stefano Palminteri,École normale supérieure,3
+161,Jerry Zhu,University of Wisconsin-Madison,3
+162,Dr. Arpan Banerjee,National Brain Research Centre (NBRC),3
+163,Jens Koed Madsen,London School of Economics,3
+164,Edward Gibson,Massachusetts Institute of Technology,3
+165,Jeffrey M. Zacks,Washington University in Saint Louis,3
+166,Leah Somerville,Harvard University,3
+167,Ricky Van-yip Tso,University of Hong Kong,3
+168,Maria Luisa De Martino,Sapienza University of Rome,3
+169,Abdellah Fourtassi,Aix-Marseille University,3
+170,Maarten van der Velde,MemoryLab,3
+171,Mariella Pazzaglia,Sapienza University of Rome,3
+172,Agnes Kovacs,Central European University,3
+173,Yue Ji,Beijing Institute of Technology,3
+174,Alison Gopnik,"University of California, Berkeley",3
+175,Aarthi Popat,Yale University,3
+176,Marieke Schouwstra,University of Amsterdam,3
+177,Zhenghan Qi,Northeastern University,3
+178,Marina Bedny,Johns Hopkins University,3
+179,Suzanne Aussems,University of Warwick,2
+180,Nikhil Krishnaswamy,Colorado State University,2
+181,David M. Sobel,Brown University,2
+182,Sunayana Rane,Princeton University,2
+183,Nikunj Harlalka,University of Wisconsin-Madison,2
+184,Sumarga H. Suanda,University of Connecticut,2
+185,Jiayu Jiang,Syracuse University,2
+186,David Schlangen,University of Potsdam,2
+187,Suzanne Stevenson,University of Toronto,2
+188,Andrea Ariño Bizarro,University of Zaragoza,2
+189,Sudeep Bhatia,University of Pennsylvania,2
+190,Nicole Dodd,"University of California, Davis",2
+191,Daniel Sabinasz,Institut für Neuroinformatik,2
+192,Daniel Yamins,Stanford University,2
+193,Nicolas Marchant,Universidad Adolfo Ibáñez,2
+194,Nicolas Navarre,University of Edinburgh,2
+195,Nicolas Schuck,Universität Hamburg,2
+196,Jinsheng Shi,Beijing University of Posts and Telecommunications,2
+197,Nicole Coates,Massachusetts Institute of Technology,2
+198,Jingqi Yu,University of Toronto,2
+199,Suzy J. Styles,Nanyang Technological University,2
+200,Daoxin Li,University of Pennsylvania,2
+201,Jingcong Li,South China Normal University,2
+202,Nicole Lauren George,London Schools of Economics,2
+203,Darya Namednikava,"Centre for Language Evolution Studies, Nicolaus Copernicus University",2
+204,Louise Connell,Maynooth University,2
+205,David Barner,"University of California, San Diego",2
+206,Sydelle de Souza,University of Edinburgh,2
+207,Aleksejs Ševčenko,Riga Stradins University,2
+208,Dedre Gentner,Northwestern University,2
+209,Luca Simione,Università degli Studi Internazionali,2
+210,Jia Loy,Saarland University,2
+211,Dr. Dipanjan Roy,Indian Institute of Technology Jodhpur,2
+212,Dr. Chetan Ralekar,Massachusetts Institute of Technology,2
+213,Sophie Domanski,University of Maryland,2
+214,Sotaro Kita,University of Warwick,2
+215,Olivier Morin,PSL University,2
+216,Olivia Fischer,University of Zurich,2
+217,Sreejan Kumar,Princeton Neuroscience Institute,2
+218,Stan West,Louisiana State University,2
+219,Jess Mankewitz,University of Wisconsin-Madison,2
+220,Zili Liu,"University of California, Los Angeles",2
+221,Zijie Shi,Beijing University of Posts and Telecommunications,2
+222,Oana Stanciu,Central European University,2
+223,Maria Kon,US Naval Research Laboratory,2
+224,Jet Hoek,Radboud University,2
+225,Stella Christie,Tsinghua University,2
+226,Declan I. Campbell,Princeton University,2
+227,Albert Newen,Ruhr-Universität Bochum,2
+228,Noga Zaslavsky,"University of California, I",2
+229,Noah Phillips,Rensselaer Polytechnic Institute,2
+230,Alejandra Mitzi Castellón-Flores,Universidad Nacional Autónoma de México,2
+231,Dhavan Shah,University of Wisconsin-Madison,2
+232,Maria M Piñango,Yale University,2
+233,Stephanie Pieschl,Technische Universität Darmstadt,2
+234,Desmond Ong,University of Texas at Austin,2
+235,Dermot Lynott,Maynooth University,2
+236,Stephen Flusberg,Vassar College,2
+237,Stephen H Dewitt,University College London,2
+238,Nisheeth Srivastava,Indian Institute of Technology,2
+239,Deju Zhang,"College of Computer Science and Technology, Zhejiang University of Technology",2
+240,Luca Tummolini,National Research Council of Italy,2
+241,Daniel Raggi,University of Cambridge,2
+242,Daniel Corral,Syracuse University,2
+243,Daniel Mirman,University of Edinburgh,2
+244,Tony Chen,Massachusetts Institute of Technology,2
+245,Linus Holm,University of Umeå,2
+246,Christian Tsvetkov,University of Warwick,2
+247,Titus von der Malsburg,University of Stuttgart,2
+248,Alexandra Lorson,University of Groningen,2
+249,Christian Gumbsch,TUD Dresden University of Technology,2
+250,Juan C Valle-Lisboa,Universidad de la República,2
+251,Zachary Horne,University of Edinburgh,2
+252,Ching-Yi Wang,Academic,2
+253,Yuyu Yuan,Beijing University of Posts and Telecommunications,2
+254,Marina Dubova,Indiana University Bloomington,2
+255,Chiara Fini,Sapienza University of Rome,2
+256,Tom Williams,Colorado School of Mines,2
+257,Tommi Leung,United Arab Emirates University,2
+258,Tongyu Zhao,University of Minho,2
+259,Mounika Kanakanti,Max Planck Institute for Psycholinguistics,2
+260,Yu-Wei Chang,Syracuse University,2
+261,Yurina Otaki,Hitotsubashi University,2
+262,Charlotte Cornell,Rutgers University--New Brunswick,2
+263,Toshimune Kambara,Hiroshima University,2
+264,Tracey Mills,Massachusetts Institute of Technology,2
+265,Julian Zubek,University of Warsaw,2
+266,Trisevgeni Papakonstantinou,University College London,2
+267,Tsz-chung Ronald Chan,University of Hong Kong,2
+268,Lina Qiu,South China Normal University,2
+269,Catherine Sandhofer,"University of California, Los Angeles",2
+270,Moreno I. Coco,"Sapienza, University of Rome",2
+271,Ugurcan Vurgun,University of Pennsylvania,2
+272,Lily S Dicken,University of Queensland,2
+273,Cassandra Teigen,London School of Economics and Political Science,2
+274,Jun Yin,Ningbo University,2
+275,Marijn van Dijk,University of Groningen,2
+276,Zak Hussain,University of Basel,2
+277,Narayanan Srinivasan,Indian Institute of Technology,2
+278,Natalia A Vélez,Princeton University,2
+279,Tan Zhi-Xuan,Massachusetts Institute of Technology,2
+280,Jenny Rettstatt,Chemnitz University of Technology,2
+281,Daniel Brand,Chemnitz University of Technology,2
+282,Zhi Liu,Zhejiang University of Technology,2
+283,Zhenyu Zhao,Beijing University of Post and Telecommunications,2
+284,Nicholas Ichien,University of Pennsylvania,2
+285,Daichi Shimizu,Graduate School of Human Development and Environment,2
+286,Ted Sumers,Princeton University,2
+287,Cédric Colas,Massachusetts Institute of Technology,2
+288,Alexander Fengler,Brown University,2
+289,Constantin Rothkopf,Technical University of Darmstadt,2
+290,Tessa Verhoef,Leiden University,2
+291,John Paul Minda,University of Western Ontario,2
+292,Colin Wilson,Johns Hopkins University,2
+293,Cleotilde Gonzalez,Carnegie Mellon University,2
+294,Marie Christin Walch,Leibniz Universität Hannover,2
+295,Claudia G. Sehl,University of Waterloo,2
+296,Clare Press,University College London,2
+297,Nazbanou Nozari,Indiana University,2
+298,Theresa Matzinger,University of Vienna,2
+299,Nauris Zdanovskis,Riga Stradins University,2
+300,Marieke Woensdregt,Radboud University,2
+301,Thomas Lachmann,RPTU University of Kaiserslautern-Landau,2
+302,Jordan Taylor,Princeton University,2
+303,Christopher R Cox,Louisiana State University,2
+304,Christopher Potts,Stanford University,2
+305,Tiago Gomes,University of Minho,2
+306,Christopher Edwards,University College London,2
+307,Natalia Arias-Trejo,"Universidad Nacional Autónoma de Mexico, UNAM",2
+308,Lucy G Cheke,University of Cambridge,2
+309,Sonia Ramotowska,University of Amsterdam,2
+310,Jennifer Weber,"University of Colorado, Boulder",2
+311,Hugo Chateau-Laurent,Inria centre at the university of Bordeaux,2
+312,holly hake,University of Washington,2
+313,Hunter Priniski,"University of California, Los Angeles",2
+314,Frank Keller,University of Edinburgh,2
+315,Huiwen Alex Yang,"University of California, Berkeley",2
+316,Frederic Alexandre,Inria centre at the university of Bordeaux,2
+317,Frederick Callaway,New York University,2
+318,Gabor Brody,Brown University,2
+319,Ori Friedman,University of Waterloo,2
+320,Radim Lacina,Osnabrück University,2
+321,Gabriella Vigliocco,University College London,2
+322,Rafael Fuchs,"Munich Center for Mathematical Philosophy, LMU Munich",2
+323,Hongjing Lu,"University of California, Los Angeles",2
+324,Raj Sanjay Shah,Georgia Institute of Technology,2
+325,Madeleine Long,University of Edinburgh,2
+326,Salvador Mascarenhas,Ecole Normale Supérieure,2
+327,Francis Steen,University of California,2
+328,Francesco Mannella,National Research Council,2
+329,Francesco Ianì,University of Torino,2
+330,Francesco Cabiddu,University College London,2
+331,Francesca M M Citron,Lancaster University,2
+332,Idan A Blank,"University of California, Los Angeles",2
+333,Samuel Aeschbach,Max Planck Institute for Human Development,2
+334,Adam Harris,University College London,2
+335,Ilker Yildirim,Yale University,2
+336,Qianliang Li,Technical University of Denmark,2
+337,Fiery Cushman,Harvard University,2
+338,Iraide Ibarretxe Antuñano,University of Zaragoza,2
+339,Irene Böhm,University of Vienna,2
+340,Sangeet Khemlani,US Naval Research Laboratory,2
+341,Felix Thiel,Department for Psychology,2
+342,Santa Bartušēvica,University of Latvia,2
+343,Ralf F.A. Cox,University of Groningen,2
+344,Ralph Hertwig,Max Planck Institute for Human Development,2
+345,Mara Stockner,Sapienza University of Rome,2
+346,Rheza Budiono,New York University,2
+347,Rina Kagawa,University of Tsukuba,2
+348,Šárka Kadavá,Leibniz Center General Linguistics,2
+349,Hans Wilke,University of Groningen,2
+350,Hao Lin,Shanghai International Studies University,2
+351,Hanna Kucwaj,SWPS University,2
+352,Robert Goldstone,Indiana University,2
+353,Robert Hartsuiker,Ghent University,2
+354,Robert Hepach,University of Oxford,2
+355,Hao Xu,Jilin University,2
+356,Aaron Benjamin Lob,University of Zurich,2
+357,Richard P Cooper,"Birkbeck, University of London",2
+358,Richard Futrell,"University of California, Irvine",2
+359,Gyu-Ho Shin,Unversity of Illinois at Chicago,2
+360,Harriet Hill-Payne,University College London,2
+361,Guoyang Liu,Shandong University,2
+362,Raquel Fernandez,University of Amsterdam,2
+363,Guojiang Shen,Zhejiang University of Technology,2
+364,Makio Kashino,NTT Communication Science Laboratories,2
+365,Manikya Alister,University of Melbourne,2
+366,Grecia Garcia Garcia,University of Sussex,2
+367,Renato Frey,University of Zurich,2
+368,Heesu Yun,University of Pennsylvania,2
+369,Grace E Keene,Stanford University,2
+370,Giuliana Mazzoni,Sapienza University of Rome,2
+371,Rongzhi Liu,University of Chicago,2
+372,Rebecca Defina,University of Melbourne,2
+373,Abhilasha Kumar,Bowdoin College,2
+374,Raul Grieben,Ruhr-Universität Bochum,2
+375,Rui Han,Beijing University of Posts and Telecommunications,2
+376,George Kachergis,Stanford University,2
+377,Irmak Hacımusaoğlu,Tilburg University,2
+378,Fatima Boush,United Arab Emirates University,2
+379,Sara Todorovikj,University of Technology Chemnitz,2
+380,Elena Gherri,Università di Bologna,2
+381,Pawan Sinha,Massachusetts Institute of Technology,2
+382,Lukasz Walasek,University of Warwick,2
+383,Paul Michael Garrett,University of Melbourne,2
+384,Paul Marty,University of Malta,2
+385,Elizabeth Pankratz,University of Edinburgh,2
+386,Agnese Anna Pastare,Riga Stradins University,2
+387,Zoe Ockerby,University of Queensland,2
+388,Elizabeth Bonawitz,Harvard University,2
+389,Sidharth Ranjan,University of Stuttgart,2
+390,Jason W. Burton,Copenhagen Business School,2
+391,Sijia Yang,University of Wisconsin-Madison,2
+392,Marek Placiński,Nicolaus Copernicus University in Toruń,2
+393,Simon Dennis,University of Melbourne,2
+394,Margaret Catherine Macpherson,Macquarie University,2
+395,Simon Valentin,University of Edinburgh,2
+396,Shlomit Ben-Ami,Massachusetts Institute of Technology,2
+397,Sinem Aytac,Syracuse University,2
+398,Ziwen Wang,Johns Hopkins University,2
+399,Eileen Haebig,Louisiana State University,2
+400,Pablo Solana,University of Granada,2
+401,Aiko Murata,Nippon Telegraph and Telephone Corporation,2
+402,Skyler Jove Reese,"University of California, Davis",2
+403,Jeh-Kwang Ryu,Dongguk University,2
+404,Edith Kaan,University of Florida,2
+405,Jekaterina Mazara,University of Zurich,2
+406,Jelmer Borst,University of Groningen,2
+407,Aislinn Keogh,University of Edinburgh,2
+408,Solvita Umbrasko,University of Latvia,2
+409,Jennifer Hu,Harvard University,2
+410,Junjie Hu,University of Wisconsin-Madison,2
+411,Peike Li,"University of California, Los Angeles",2
+412,Penka Hristova,New Bulgarian University,2
+413,Sarah A Wu,Stanford University,2
+414,Adina Williams,Meta Platforms Inc,2
+415,Maarten Speekenbrink,University College London,2
+416,Ismail Guennouni,University College London,2
+417,Zuzanna Fuchs,University of Southern California,2
+418,Sayeh Yousefi,London School of Economics and Political Science,2
+419,Pol van Rijn,Max Planck Institute for Empirical Aesthetics,2
+420,Ivana Konvalinka,Technical University of Denmark,2
+421,Ethan Gotlieb Wilcox,ETH Zurich,2
+422,Esam Ghaleb,University of Amsterdam,2
+423,Sean P Anderson,Stanford University,2
+424,Sean Trott,"University of California, San Diego",2
+425,Seana Coulson,"University of California, San Diego",2
+426,Zuorui Ying,South China Normal University,2
+427,Lynden K. Miles,University of Western Australia,2
+428,Erik Brockbank,Stanford University,2
+429,Jacob Andreas,Massachusetts Institute of Technology,2
+430,Shengyi Wu,Massachusetts Institute of Technology,2
+431,Adriano Tavares,University of Minho,2
+432,Jacob Russin,Brown,2
+433,Phil Johnson-Laird,Princeton University,2
+434,Petra B. Schumacher,University of Cologne,2
+435,Emma McEwen,University of St Andrews,2
+436,Serge Thill,Radboud University,2
+437,Emma Courtney,Cold Spring Harbor Laboratory,2
+438,Luke Maurits,Max Planck Institute for Evolutionary Anthropology,2
+439,Shalini Gautam,Boston College,2
+440,Zoey Liu,University of Florida,2
+441,Agam Goyal,University of Wisconsin-Madison,2
+442,Luke Chang,Dartmouth College,2
+443,Peter Cheng,University of Sussex,2
+444,James Pustejovsky,Brandeis University,2
+445,Junhui Deng,College of Computer Science and Technology,2
+446,Tamar Johnson,University of Amsterdam,2
+447,Caroline Kaicher,Carnegie Mellon University,2
+448,Wendy Ross,London Metropolitan,2
+449,Borut Trpin,LMU Munich,2
+450,Bob Rehder,New York University,2
+451,Anne Urai,Leiden University,2
+452,Weisen Feng,South China Normal University,2
+453,Kyle LaFollette,Case Western Reserve University,2
+454,Weiyan Liao,University of Hong Kong,2
+455,Michael Spivey,"University of California, Merced",2
+456,Michael Ramscar,University of Tübingen,2
+457,Michael Pleyer,Nicolaus Copernicus University in Toruń,2
+458,Alicia K Jones,University of Queensland,2
+459,Lena Kassin,Reed College,2
+460,Michael Kalish,Syracuse University,2
+461,Annika Österdiekhoff,Bielefeld University,2
+462,Markus Werning,Ruhr University Bochum,2
+463,Matthias Scheutz,Tufts University,2
+464,Wentao Wang,New York University,2
+465,Katherine Ritchie,"University of California, Irvine",2
+466,Kristy L Armitage,University of Queensland,2
+467,Kyveli Kompatsiari,Technical University of Denmark,2
+468,Mika Asaba,Yale University,2
+469,Kristopher T. Jensen,University College London,2
+470,Viviana Sastre Gomez,University of Melbourne,2
+471,Bruce Burns,University of Sydney,2
+472,Anastasia Anufrieva,HSE University,2
+473,Angelo Mattia Gervasi,Sapienza University of Rome,2
+474,Mateja Jamnik,University of Cambridge,2
+475,Lasana Harris,University College London,2
+476,Karl Rosengren,University of Rochester,2
+477,Karla E Perez,Massachusetts Institute of Technology,2
+478,Vishakha Shukla,New York University,2
+479,Anjie Cao,Stanford University,2
+480,Anna Ivanova,Georgia Institute of Technology,2
+481,Vladimir Sloutsky,Ohio State University,2
+482,Larissa K Samuelson,University of East Anglia,2
+483,Brett Hayes,University of New South Wales,2
+484,Yun-Xiao Li,University of Warwick,2
+485,Ann-Kathrin Beck,University of Kaiserslautern-Landau,2
+486,Ann-Katrin Hosch,University of Bremen,2
+487,Brendan Johns,McGill University,2
+488,Anna Isabel Thoma,Max-Planck-Institute for Human Development,2
+489,Kathy Shum,University of Hong Kong,2
+490,Kristof Strijkers,CNRS & Aix-Marseille University,2
+491,Angela Schwering,University of Muenster,2
+492,Yang Wu,University of Toronto Scarborough,2
+493,Meredith McKague,University of Melbourne,2
+494,Balthasar Bickel,University of Zurich,2
+495,Bahar Tarakçı,Özyeğin University,2
+496,Klaudia Karkowska,Nicolaus Copernicus University,2
+497,Mengru Han,East China Normal University,2
+498,Aylin C Küntay,Koç University,2
+499,Amber Jade Brown,University of Western Australia,2
+500,Caroline F Rowland,Max Planck Institute for Psycholinguistics,2
+501,Arthur Le Pargneux,University of Warwick,2
+502,Barbara Landau,Johns Hopkins University,2
+503,Medha Kini,"University of California, Los Angeles",2
+504,Yujia Peng,Peking University,2
+505,Kevin Reuter,University of Zurich,2
+506,Yan Gu,University College London,2
+507,Asifa Majid,University of Oxford,2
+508,Asli Ozyurek,Donders Institute,2
+509,Asli Özyürek,Max Planck Institute,2
+510,Yael Niv,Princeton University,2
+511,Amanda Seed,University of St Andrews,2
+512,Xiaohan (Hannah) Guo,University of Chicago,2
+513,Katsumi Watanabe,Waseda University,2
+514,Antonino Raffone,Sapienza University of Rome,2
+515,Kavita Vemuri,International Institute of Information Technology - Hyderabad,2
+516,Max Kleiman-Weiner,University of Washington,2
+517,Marlene Berke,Yale University,2
+518,Wilma Bainbridge,University of Chicago,2
+519,Marlou Rasenberg,Meertens Institute,2
+520,Yueyuan Zheng,University of Hong Kong,2
+521,Kazuhiro Ueda,University of Tokyo,2
+522,Ben Newell,University of New South Wales,2
+523,Leon Assaad,Ludwig-Maximilians-Universität München,2
+524,Amanda McCarthy,Yale University,2
+525,Yatong Zu,Jilin University,2
+526,Alyssa Viviana Ortega,"University of California, Merced",2
+527,Xiangjie Kong,Zhejiang University of Technology,2
+528,Yarrow Dunham,Yale University,2
+529,Ken McRae,University of Western Ontario,2
+530,Ardis Platkājis,Riga Stradins University,2
+531,Barend Beekhuizen,University of Toronto,2
+532,Amanda L Royka,Yale University,2
+533,Matan Mazor,University of Oxford,2
+534,Katharina Rohlfing,Paderborn University,2
+535,Andreea Miruna Miscov,University of St Andrews,2
+536,Can Konuk,Institut Jean Nicod,2
+537,Yoshihisa Kashima,University of Melbourne,2
+538,Masaru Shirasuna,Otemon Gakuin University,2
+539,Yiwei Wang,"University of California, Los Angeles",2
+540,Cagla Aydin,Sabanci University,2
+541,Laura Zeļģe,University of Latvia,2
+542,Kai J Sandbrink,University of Oxford,2
+543,Jurgis Skilters,University of Latvia,2
+544,Mizuki Yoshio,Hiroshima University,2
+545,Yuang Cai,Beijing University of Posts and Telecommunications,2
+546,Andrew Wang,University of Melbourne,2
+547,Jānis Mednieks,Riga Stradins University,2
+548,Junyi Chu,Harvard University,2
+549,Aliaksandr Dabranau,Technical University of Denmark,2
+550,Cameron Rouse Turner,Princeton University,2
+551,Martine Grice,University of Cologne,2
+552,Yu Feng,University of Minho,2
+553,Andrea Stocco,University of Washington,2
+554,Bryce Linford,"University of California, Los Angeles",2
+555,Lauren Aulet,Carnegie Mellon University,2
+556,Minjung Shin,Seoul National University,2
+557,Angela Nyhout,University of Kent,2
+558,Manas Kabre,"International Institute of information technology, Hyderabad",1
+559,Philip J Kellman,"University of California, Los Angeles",1
+560,Martin Maier,Humboldt-Universität zu Berlin,1
+561,Maximilian Maier,University College London,1
+562,Philipp Lorenz-Spreen,Max Planck Institute for Human Development,1
+563,Maximilian Mittenbühler,University of Tuebingen,1
+564,Riccardo Fusaroli,Aarhus University,1
+565,Martín Dutra,University of the Republic,1
+566,María Teresa Moret-Oliver,University of Zaragoza,1
+567,Maya Malaviya,Stevens Institute of Technology,1
+568,Peter Zhu,Stanford University,1
+569,Maximo Trench,University of Comahue,1
+570,Philip A Huebner,Pattern,1
+571,Richard E Veale,Kyoto University,1
+572,Maxime Lucas,CENTAI Institute,1
+573,Maximo Trench,CONICET-UNCo,1
+574,Renxi Guo,Nanchang University,1
+575,Petri Toiviainen,University of Jyväskylä,1
+576,Maya Leshkowitz,Hebrew University of Jerusalem,1
+577,Petra Hendriks,University of Groningen,1
+578,Pietro Pietrini,IMT School for Advanced Studies Lucca,1
+579,Pierina Cheung,Nanyang Technological University,1
+580,Philippa A Johnson,Leiden University,1
+581,Pierre-Yves Oudeyer,INRIA,1
+582,Reza khosrowabadi,Institute of Cognitive and Brain Sciences,1
+583,Reyhan Furman,University of Central Lancashire,1
+584,Maryam Alimardani,Tilburg University,1
+585,Pieter Roelfsema,"Department of Vision & Cognition, Netherlands Institute for Neuroscience (KNAW)",1
+586,Renée M Tobin,Temple University,1
+587,Mary Alexandria Kelly,Carleton University,1
+588,Martín Montesinos,Universidad Adolfo Ibáñez,1
+589,Max van Duijn,Leiden University,1
+590,Maxence Pajot,"Cognitive Neuroimaging Unit, INSERM, CEA, Université Paris Saclay, NeuroSpin Center France",1
+591,Mandy Cartner,Tel Aviv University,1
+592,Po-Sheng Huang,National Taiwan University of Science and Technology,1
+593,Max Louwerse,Tilburg University,1
+594,Pierre-Adams Ouattara Oulé,Université Paris-Saclay,1
+595,Ricarda Brieke,University College London (University College London),1
+596,Pierpaolo Zivi,Sapienza University of Rome,1
+597,Riccardo De Pastina,Sapienza University of Rome,1
+598,Maxime Cauté,"CEA, Inserm, Université Paris-Saclay",1
+599,Pietro Perconti,Università di Messina,1
+600,Rani Moran,Queen Mary University of London,1
+601,Peter Pirolli,Institute for human and machine cognition,1
+602,Peter Rebrus,HUN-REN Hungarian Research Centre for Linguistics,1
+603,Megan V Merrick,Indiana University - Bloomington,1
+604,Peng Zhang,Tianjin University,1
+605,Pelin Celikkol,University of Potsdam,1
+606,Peiyuan Zhang,New York University,1
+607,Peiyao Hu,Stevens Institute of Technology,1
+608,Martina Dvořáková,Charles University,1
+609,Martina A. Rau,University of Wisconsin-Madison,1
+610,Pei Sun,Tsinghua University,1
+611,Richard Vagnino,"University of California, San Diego",1
+612,Paulo Carvalho,Human Computer Interaction Institute,1
+613,Megan Richardson,Harvard University,1
+614,Paula Marentette,University of Alberta,1
+615,Paul Smolensky,Johns Hopkins University,1
+616,Marcelo Wanderley,McGill University,1
+617,Paul Schrater,"University of Minnesota, Twin Cities",1
+618,Megan Waller,Carnegie Mellon University,1
+619,Martha Lewis,University of Bristol,1
+620,Paul Hoffman,University of Edinburgh,1
+621,Paul Engelhardt,University of East Anglia,1
+622,Paul Dux,University of Queensland,1
+623,Megija Lelde Gintere,University of Latvia,1
+624,Martin Zettersten,Princeton University,1
+625,Martin V. Butz,University of Tübingen,1
+626,Marco Marelli,University of Milano-Bicocca,1
+627,Patrick Mair,Harvard University,1
+628,Malte Krambeer,University of Groningen,1
+629,Martina G. Vilas,Goethe University Frankfurt,1
+630,Peri Goldblatt,Kent State University,1
+631,Richard Shillcock,University of Edinburgh,1
+632,Martin Hartmann,University of Jyväskylä,1
+633,Marco Bragoni,Tilburg University,1
+634,Peter Racz,Budapest University of Technology and Economics,1
+635,Polina Tsvilodub,University of Tübingen,1
+636,Richard Julius Paul Koebe,Institut für Neuroinformatik,1
+637,Martine ADDA-DECKER,CNRS,1
+638,Peter Mazalik,Johns Hopkins University,1
+639,Peter M. Todd,"Indiana University, Bloomington",1
+640,Man Jiang,South China University of Technology,1
+641,Peter M. E. Claessens,Federal University of ABC,1
+642,Maya Taliaferro,New York University,1
+643,Mayu Yamakawa,Nagoya University,1
+644,Peter Lovibond,University of New South Wales,1
+645,Peter König,University of Osnabrück,1
+646,Maëva L’Hôtellier,"CEA Paris-Saclay, Gif-sur-Yvette, France Université de Paris",1
+647,Peter Hesse,Chair of Vocational Education,1
+648,Peter Ford Dominey,Universite Bourgogne,1
+649,Richard Shiffrin,Indiana University,1
+650,Md Ehtesham-Ul-Haque,Pennsylvania State University,1
+651,Md Rysul Kabir,Indiana University,1
+652,Martina Penke,University of Cologne,1
+653,Martin Corley,University of Edinburgh,1
+654,Pernille Hemmer,Rutgers University,1
+655,Maurício de Jesus Dias Martins,University of Vienna,1
+656,Rene Zeelenberg,Erasmus University,1
+657,Renjie Wan,HKBU,1
+658,Qingying Chen,Tianjin University,1
+659,Mathieu Bourguignon,Université Libre de Bruxelles,1
+660,R. Thomas McCoy,Yale University,1
+661,Quitterie D'Estalenx,University of Exeter,1
+662,Rea Kawano,Hiroshima University,1
+663,Reba Koenen,Georgia Institute of Technology,1
+664,Quanlin Chen,South China Normal University,1
+665,Rebecca Albrecht,"Faculty of Psychology, University of Basel",1
+666,Marc Croes,Erasmus University Rotterdam,1
+667,Manuel Bohn,Max Planck Institute for Evolutionary Anthropology,1
+668,Mathieu Pinelli,"LaRAC, Univ Grenoble Alpes",1
+669,Marc Ouellet,University of Granada,1
+670,Matija Franklin,University College London,1
+671,Renee Ye,Ruhr-Universität Bochum,1
+672,Rebecca Beaton,Vanderbilt University,1
+673,Marc-Lluis Vives,Leiden University,1
+674,Qingqing Ye,Ningbo University,1
+675,Qingmeng Zhu,University of Chinese Academy of Sciences,1
+676,Matt Field,University of Sheffield,1
+677,Martin Meyer,Yale University,1
+678,Matt Neitz,University of Florida,1
+679,Qinghao Meng,Tianjin University,1
+680,Matteo Colombo,Tilburg University,1
+681,Rebecca Geiselmann,LMU Munich,1
+682,Qing Li,National Key Laboratory of Beijing Institute for General Artificial Intelligence,1
+683,RT Pramod,Massachusetts Institute of Technology,1
+684,Masataka Sawayama,University of Tokyo,1
+685,Rachel Blaser,University of San Diego,1
+686,Raymond Shao,"University of California, Los Angeles",1
+687,Raphael Schween,Philipps University Marburg,1
+688,Masoud Jasbi,"University of California, Davis",1
+689,Ralf Kurvers,MPI for Human Development,1
+690,Rasha Abdel Rahman,Humboldt-Universität zu Berlin,1
+691,Rahul Venkatesh,Stanford University,1
+692,Rahul Bhui,Massachusetts Institute of Technology,1
+693,Rafael Sousa Silva,Colorado School of Mines,1
+694,Mateo Obregón,University of Edinburgh,1
+695,Mathi Manavalan,University of Minnesota - Twin Cities,1
+696,Radina Dobreva,University of Edinburgh,1
+697,Rashmi Gupta,IIT Bombay,1
+698,Manuel Traub,Eberhard Karls University of Tübingen,1
+699,Mathias Sablé-Meyer,"NeuroSpin center, CEA DRF/I2BM, INSERM, Université Paris-Sud, Université Paris-Saclay",1
+700,Rachel Stephens,University of Adelaide,1
+701,Rashmi Gupta,IIT Bpmbay,1
+702,Rachel Ryskin,"University of California, Merced",1
+703,Mathias Sablé-Meyer,University College London,1
+704,Manuel Gomez Rodriguez,Max Planck Institute for Software Systems,1
+705,Masayuki Watanabe,Mazda Motor Corporation,1
+706,Rachel Rudinger,University of Maryland College Park,1
+707,Marc Allassonnière-Tang,CNRS,1
+708,Masayuki Fujiwara,Komatsu University,1
+709,Rachel Dudley,Central European University,1
+710,Matthew Cashman,Harvard University,1
+711,Qihui Xu,Ohio State University,1
+712,Qihong Lu,Columbia University,1
+713,Prof. Dr. Jinxin Yue,Harbin Institute of Technology,1
+714,Priyanka Srivastava,"International Institute of Information Technology, Hyd",1
+715,Priya B. Kalra,University of Western Ontario,1
+716,Marcel Binz,Helmholtz Computational Health Center,1
+717,Masahiko Tsukamoto,Kobe University,1
+718,Priti Gupta,Dr Shroff's Charity Eye Hospital,1
+719,Pritam Laskar,University of Amsterdam,1
+720,Prince Varshney,"International Institute of Information Technology, Hyderabad",1
+721,Matthias Hofer,Massachusetts Institute of Technology,1
+722,Martin Ragot,b<>com,1
+723,Mattia Opper,University of Edinburgh,1
+724,Praveen Kumaravelan,"University of Maryland, Baltimore County",1
+725,Manuel Bohn,Leuphana University Lüneburg,1
+726,Prashanth Rajivan,University of Washington,1
+727,Pranav Dronavalli,University of Wisconsin-Madison,1
+728,Rene Terporten,Radboud University,1
+729,Prakhar Godara,TU Darmstadt,1
+730,Pragya Shah,Dr Shroff's Charity Eye Hospital,1
+731,Prabuddha Senapati,University Of Toronto,1
+732,Pouria Rahgosha,Mississippi State University,1
+733,Randall Beer,Indiana University,1
+734,Ponrawee Prasertsom,University of Edinburgh,1
+735,Polyphony J Bruna,"University of California, Merced",1
+736,Marcel Binz,Helmholtz Munich,1
+737,Martin N Hebart,Max Planck Institute for Human Cognitive and Brain Sciences,1
+738,Prof. Eric J. Johnson,Columbia University,1
+739,Qiawen Liu,University of Wisconsin-Madison,1
+740,Regina Vollmeyer,Goethe University,1
+741,Rebecca Merkley,Carleton University,1
+742,Qianqian Wan,Ohio State University,1
+743,Matthew HC Mak,University of Warwick,1
+744,Masaki Nakanishi,1986,1
+745,Qianqian Li,"Department of Psychology and Sleep Medicine, the Second Affiliated Hospital of Anhui Medical University",1
+746,Matthew Lambon Ralph,University of Cambridge,1
+747,Matthew Lieberman,"University of California, Los Angeles",1
+748,Qiang Huang,XinJiang university,1
+749,Rebecca Schaefer,Leiden University,1
+750,Patrick House,Epileptologicum Hamburg,1
+751,Qian Zhang,Xidian university,1
+752,Qian Liu,School of Computer Science and Engineering,1
+753,Matthew Rouse,University of Cambridge,1
+754,Qi Han,Stanford University,1
+755,Martin Miguel,McMaster University,1
+756,Matthew Setzler,Meta,1
+757,Rebecca Sullivan,"University of California, Merced",1
+758,Pui Fong Kan,University of Colorado Boulder,1
+759,Rebecca Waller,University of Pennsylvania,1
+760,Matthew W Crocker,Saarland University,1
+761,Prof. Qingshan Li,Xidian University,1
+762,Rebekah Gelpi,University of Toronto,1
+763,Reece Roberts,University of Auckland,1
+764,Patrick J Errington,University of Edinburgh,1
+765,Meng Li,University of Potsdam,1
+766,Patrick Butlin,University of Oxford,1
+767,Marco Petilli,University of Milano-Bicocca,1
+768,Marie Damsgaard Mortensen,Aarhus University,1
+769,Ming Mo,LSE,1
+770,Ming Xiang,University of Chicago,1
+771,Marie Mueckstein,University of Potsdam,1
+772,Natálie Kikoťová,Charles University,1
+773,Nathaniel Imel,"University of California, Irvine",1
+774,Mingi Kang,Bowdoin College,1
+775,Mariel Barnett,Case Western Reserve University,1
+776,Nathan Mccabe,MemoryLab,1
+777,Mariel K. Goddu,"University of California, Berkeley",1
+778,Mingsong Chen,East China Normal University,1
+779,Natasza Siwinska,University of Cambridge,1
+780,Natasha Matthews,University of Queensland,1
+781,Natascha Raue,University of Kassel,1
+782,Mingtong Li,University of Warwick,1
+783,Nataliya Dianova,University of the Basque Country UPV/EHU,1
+784,Mingyu Weng,Purdue University,1
+785,Minh Khong Bui,"California State University, Fullerton",1
+786,Natalia Vélez,Princeton University,1
+787,Minje Kim,University of Illinois Urbana-Champaign,1
+788,Natalia Postnova,University of Helsinki,1
+789,Natalia Nudga,"Faculty or Arts, Charles University",1
+790,Natalia Gagarina,ZAS,1
+791,Minseok Kang,Ruhr-Universität Bochum,1
+792,Nart Bedin Atalay,TOBB University of Economics and Technology,1
+793,Mark Blokpoel,Radboud University,1
+794,Naomi Tachikawa Shapiro,Radboud Universiteit,1
+795,Minsu Lee,Seoul National University,1
+796,Marija Bolic,University of Ottawa,1
+797,Mincong Wu,"University of California, San Diego",1
+798,Necdet Gurkan,Stevens Institute of Technology,1
+799,Marianne de Heer Kloots,"Institute for Logic, Language and Computation",1
+800,Mike Oaksford,"Birkbeck, University of London",1
+801,Michelle Morgenstern,Philipps-Universität Marburg,1
+802,Nicola Angius,University of Messina,1
+803,Michelle Wang,New York University,1
+804,Maria Teresa Borneo,Yale University,1
+805,Nick Simpson,University College London,1
+806,Maria Valentini,University of Colorado Boulder,1
+807,Miho Fuyama,Ritsumeikan University,1
+808,Maria Vorobeva,Carleton University,1
+809,Nicholas Rabb,Tufts University,1
+810,Mika Braginsky,Stanford University,1
+811,Mika Wakui,Waseda University,1
+812,Nichola J Raihani,University College London,1
+813,Nichol Castro,University at Buffalo,1
+814,Nhut Truong,University of Trento,1
+815,Marianna Y. Zhang,Stanford University,1
+816,Maria den Hartog,Radboud University,1
+817,Mikkel Wallentin,Aarhus University,1
+818,Marian Marchal,Saarland University,1
+819,Mariana Carneiro de Andrade,Donders Institute,1
+820,Neil Van Leeuwen,Georgia State University,1
+821,Neil Rathi,Stanford University,1
+822,Marianna M Bolognesi,Modern Languages Dep,1
+823,Milena Rabovsky,University of Potsdam,1
+824,Nehal Ajmal,Vassar College,1
+825,Mimi Liljeholm,"University of California, Irvine",1
+826,Mark G. Orr,Institute for Human and Machine Cognition,1
+827,Neele Engelmann,Max Planck Institute for Human Development,1
+828,Min Tang,"University of California, Berkeley",1
+829,Nandita Babu,University of Delhi,1
+830,Marije B. ten Den,University of Groningen,1
+831,Minye Zhan,"Cognitive Neuroimaging Unit, INSERM, CEA, Université Paris Saclay, NeuroSpin Center France",1
+832,Morten H. Christiansen,Aarhus University,1
+833,Mr. Nikolai Huckle,SCHUFA Holding AG,1
+834,Mowei Shen,Zhejiang University,1
+835,Marjolein van Os,Saarland University,1
+836,Misha E O'Keeffe,University of Wisconsin-Madison,1
+837,Mishika Govil,Stanford University,1
+838,Marissa Laws,Carnegie Mellon University,1
+839,Mitko Aleksandrov,Institute for Geoinformatics (ifgi),1
+840,Moulshree Rana,Radboud University,1
+841,Mitsuhiko Ota,University of Edinburgh,1
+842,Moufan Li,New York University,1
+843,Moshe Poliak,Massachusetts Institute of Technology,1
+844,Mohammad Hemami,Institute of Cognitive and Brain Sciences,1
+845,Marit Petzka,Universität Hamburg,1
+846,Mohit Mukherji,New York University,1
+847,Ms. Tsz Chin Wong,Lancaster University,1
+848,Morten Christiansen,Cornell University,1
+849,Moritz Willig,Technical University of Darmstadt,1
+850,Morgane Peirolo,Aix-Marseille University,1
+851,Morgan Barense,University of Toronto,1
+852,Moira Rose Dillon,New York University,1
+853,Marius C Vollberg,University of Amsterdam,1
+854,Mora Maldonado,CNRS/Nantes Université,1
+855,Mora Maldonado,CNRS,1
+856,Monia D'Angiò,Sapienza University of Rome,1
+857,Monique Flecken,University of Amsterdam,1
+858,Mariya Toneva,Max Planck Institute for Software Systems,1
+859,Marius Zimmermann,Institute of Psychology,1
+860,Moniek Hutschemaekers,Pro Persona,1
+861,Misaki Kawashima,Kao Corporation,1
+862,Marine Carpuat,University of Maryland,1
+863,Nancy Kanwisher,Massachusetts Institute of Technology,1
+864,Myrthe Braam,University of Groningen,1
+865,Nan Wang,the Chinese University of Hong Kong,1
+866,Nan Jiang,Peking University,1
+867,Najoung Kim,Boston University,1
+868,Marika Mauti,Sapienza University of Rome,1
+869,Nadine Nicole Koch,University of Stuttgart,1
+870,Miranda Chang,University of Toronto,1
+871,Rick Lewis,University of Michigan,1
+872,Miri Besken,Bilkent University,1
+873,Nadine Marcus,University of New South Wales,1
+874,Miriam Bautista,University of Tübingen,1
+875,Naama Friedmann,Tel Aviv University,1
+876,Marina Bazhydai,Lancaster University,1
+877,Miriam Greidanus Romaneli,Radboud University Nijmegen,1
+878,Myrthe Braam,MemoryLab,1
+879,Mirko Thalmann,Max Planck Institute for Biological Cybernetics,1
+880,Miriam Hauptman,Johns Hopkins University,1
+881,Miriam Ross,Brown University,1
+882,Muxuan He,University of Southern California,1
+883,Mirjam Kampman,Pro Persona,1
+884,Marina Bedny,Johns Hopkins Unversity,1
+885,Mirjana Bozic,University of Cambridge,1
+886,Marina Kalashnikova,"Basque Center on Cognition, Brain and Language",1
+887,Mutsumi Imai,Faculty of Environment and Information Studies,1
+888,Mirko Thalmann,Helmholtz Institute,1
+889,Murat Perit Cakir,Middle East Technical University,1
+890,Marina Mancoridis,Princeton University,1
+891,Muireann Irish,University of Sydney,1
+892,Muhan Zhang,Peking University,1
+893,Maria T Gendron,Yale Univeristy,1
+894,Nicola Cellini,University of Padova,1
+895,Michelle Lam,University College London,1
+896,Omar Escámez,University of Granada,1
+897,Mengye Ren,New York University,1
+898,Marten van Schijndel,Cornell University,1
+899,Pablo Contreras Kallens,Saarland University,1
+900,PHANI KRISHNA,University of Delhi,1
+901,Oviya Mohan,University of Rochester,1
+902,Ouriel Grynszpan,Université Paris-Saclay,1
+903,Mengzhu Zhang,Anhui Medical University,1
+904,Mengzhuo Guo,University of Science and Technology of China,1
+905,Ophelia Deroy,LMU,1
+906,Marlène Bolduc,Université Laval,1
+907,Margarita V. Pavlova,New Bulgarian University,1
+908,Onur Özsoy,Leibniz-Center General Linguistics,1
+909,Omri Abend,Hebrew University,1
+910,Olympia N. Mathiaparanam,University of Rochester,1
+911,Pablo Flores,University of Helsinki,1
+912,Merel Cleo Johanna Scholman,Utrecht University,1
+913,Merel Muylle,Ghent University,1
+914,Oliver Bott,Bielefeld University,1
+915,Oli Danyi Liu,School of Informatics,1
+916,Olga Russakovsky,Princeton University,1
+917,Olga Feher,University of Warwick,1
+918,Margherita Calderan,University of Padova,1
+919,Olesya Blazhenkova,Sabanci University,1
+920,Oksana Tkachman,University of British Columbia,1
+921,Okko Räsänen,Tampere University,1
+922,Ohan Hominis,Central European University,1
+923,Merim Bilalic,Northumbria University at Newcastle,1
+924,Merve Sena İmrek,Middle East Technical University,1
+925,Mengyang Qiu,Trent University,1
+926,Mengxuan Helen Qiao,University College London,1
+927,Maria K. Scavnicky,University of Michigan,1
+928,Melanie Platz,Saarland University,1
+929,Patricia J. Brooks,"College of Staten Island and the Graduate Center, CUNY",1
+930,Mehdi Ebrahimi Mehr,Shahid Beheshti University,1
+931,Patricia Ganea,University of Toronto,1
+932,Patric Daniel Pfoertner,Cognitive Psychology,1
+933,Mehdi Senoussi,"CNRS UMR 5263, University of Toulouse",1
+934,Pat Little,New York University,1
+935,Pascale Willemsen,University of Zurich,1
+936,Marco Spruit,Leiden University,1
+937,Pascal Amsili,Université Sorbonne Nouvelle,1
+938,Paris Gappmayr,Boston University,1
+939,Meimei Yang,KU Leuven,1
+940,Pardis Aydin,"Graduate School of Informatics, Middle East Technical University",1
+941,Melanie Mitchell,Santa Fe Institute,1
+942,Paolo Papale,"Department of Vision & Cognition, Netherlands Institute for Neuroscience (KNAW)",1
+943,Mengguo Jing,Ohio State University,1
+944,Melek Öyküm Yalçın,Goethe University,1
+945,Paolo Ciuccarelli,Northeastern University,1
+946,Paola Pinti,"Birkbeck, University of London",1
+947,Panyuan Guo,University of Cambridge,1
+948,Pantelis Analytis,University of Southern Denmark,1
+949,Panfeng An,Shanghai Jiaotong University,1
+950,Melina Lauryn Knabe,University of Wisconsin-Madison,1
+951,Pamela Joy Osborn Popp,Vanderbilt University,1
+952,Melis Çetinçelik,Max Planck Institute for Pscyholinguistcs,1
+953,Melissa Kline Struhl,Massachusetts Institute of Technology,1
+954,Melissa Thye,University of Edinburgh,1
+955,Margaret Ugolini,"BAE Systems, Inc, Space & Mission Systems",1
+956,Mengcun Gao,Ohio State University,1
+957,Ny Vasil,California State University East Bay,1
+958,Nuria Gala,Aix-Marseille University,1
+959,Nicolas Claidiere,CNRS / Aix-Marseille University,1
+960,Marko Tesic,"Leverhulme Centre for the Future of Intelligence, University of Cambridge",1
+961,Markéta Ceháková,Charles University,1
+962,Nikoletta Galeraki,"Deree, American College of Greece",1
+963,Nikolaus Salvatore,Rutgers University,1
+964,Nikolai Axmacher,Ruhr University Bochum,1
+965,Maria Ruz,University of Granada,1
+966,Nikita Abalakin,Potsdam Universität,1
+967,Niels Taatgen,University of Groningen,1
+968,Niels O. Schiller,City University of Hong Kong,1
+969,Michael Messerli,University if Zurich,1
+970,Michael N. Jones,Indiana University,1
+971,Nicolò Ciarrocchi,Sapienza,1
+972,Nicole Zapparrata,College of Staten Island,1
+973,Nicole Nelson,University of Adelaide,1
+974,Nicole Gotzner,University of Osnabrück,1
+975,Michael Hahn,Saarland University,1
+976,Nicole Gotzner,Cognitive Science Institute,1
+977,Nicole Gilroy,Carleton University,1
+978,Maria Spychalska,Univeristy of Cologne,1
+979,Michael W Asher,Carnegie Mellon University,1
+980,Michał Bachanek,University of Warsaw,1
+981,Michele Loporcaro,University of Zurich,1
+982,Nicole Antes,Leibniz-Institut für Wissensmedien,1
+983,Nicolas Yax,École normale supérieure,1
+984,Michella Feldborg,University of Aberdeen,1
+985,Mark Wulff Carstensen,Institut Jean-Nicod,1
+986,Mark Steyvers,"University of California, Irvine",1
+987,Nicolas Jonard,University of Luxembourg,1
+988,Mark Higger,Colorado School of Mines,1
+989,Michael Henry Tessler,Google DeepMind,1
+990,Nils F Tolksdorf,Paderborn University,1
+991,Norika Kondo,Hiroshima University,1
+992,Michael A. Rapp,University of Potsdam,1
+993,Metehan Oguz,University of Southern California,1
+994,Maria Lialiou,University of Cologne,1
+995,Norbert Vanek,University of Auckland,1
+996,Mia Breen,University College London,1
+997,Nora Cremille,Technische Universität Darmstadt,1
+998,Mia Radovanovic,University of Toronto,1
+999,Miaomiao Yu,New York University,1
+1000,Nodoka Okada,Hiroshima University,1
+1001,Micah Goldwater,University of Sydney,1
+1002,Micha Elsner,Ohio State University,1
+1003,Micha Heilbron,University of Amsterdam,1
+1004,Maria Martin Lopez,"University of California, Berkeley",1
+1005,Noah Ford,Johns Hopkins University Applied Physics Lab,1
+1006,Noa L. Hedrich,Max Planck Institute for Human Development,1
+1007,Michael Furlong,University of Waterloo,1
+1008,Marlene Försterling,University of Oxford,1
+1009,Niteesh Deep Sharma,"Indian Institute of Technology, Kanpur",1
+1010,Maria Pia Viggiano,University of Florence,1
+1011,Nine Adler,University College London,1
+1012,Michael C. Stern,Yale University,1
+1013,Michael C. W. Yip,Education University of Hong Kong,1
+1014,Nina Van Rooy,Duke University,1
+1015,Michael D Nunez,University of Amsterdam,1
+1016,Nina Schoener,"University of California, Berkeley",1
+1017,Nina Dimitrova,New Bulgarian University,1
+1018,Nina Dijkstra,Radboud University,1
+1019,Nina Besser Ilan,Tel Aviv University,1
+1020,Marlen Fröhlich,University of Tübingen,1
+1021,A. Ross Otto,McGill University,1
+1022,Sarah Schwöbel,TUD Dresden University of Technology,1
+1023,Rineke Verbrugge,University of Groningen,1
+1024,XianChao Zhang,Dalian University of Technology,1
+1025,William M Hayes,Binghamton University,1
+1026,William P McCarthy,"University of California, San Diego",1
+1027,Wim Pouw,Radboud University Nijmegen,1
+1028,Wolfgang Gaissmaier,University of Konstanz,1
+1029,Wout Schellaert,Universitat Politècnica de València,1
+1030,Xavier Hinaut,Inria,1
+1031,Xi Jia Zhou,Stanford University Graduate School of Education,1
+1032,Xiamin Leng,Brown University,1
+1033,Xiang Ren,USC,1
+1034,Willem Zuidema,University of Amsterdam,1
+1035,Xiang Zhang,National University of Defense Technology,1
+1036,Xiangjuan Ren,Universität Hamburg,1
+1037,Xianhao Yu,"Beijing Key Lab of Traffic Data Analysis and Mining, Beijing Jiaotong University",1
+1038,Xianle Feng,Georgia Institute of Technology,1
+1039,Xiao Ke,Lancaster University,1
+1040,XiaoPeng Wei,Dalian University of Technology,1
+1041,Xiaochen Y Zheng,"Donders Institute for Brain, Cognition, and Behaviour",1
+1042,Xiaodong Wang,"Defense Innovation Institute, Academy of Military Sciences",1
+1043,William G. Kronenberger,Indiana University,1
+1044,Willem Jacob Louter,Erasmus University Rotterdam,1
+1045,Xiaoping Fang,Beijing Language and Culture University,1
+1046,Wenhao Qi,"University of California, San Diego",1
+1047,Wednesday Bushong,Wellesley College,1
+1048,Wei Li,Boston College,1
+1049,Wei Wang,Beijing University of Posts and Telecommunications,1
+1050,Wei Xing,University of Hong Kong,1
+1051,Wei-Chun Huang,University of Wisconsin-Madison,1
+1052,Weijie Xu,"University of California, Irvine",1
+1053,Weiyu Liu,Stanford University,1
+1054,Weizhen Bian,HKUST,1
+1055,Wenjie Li,New York University,1
+1056,Willem E. Frankenhuis,University of Amsterdam,1
+1057,Wenjuan Han,"Beijing Key Lab of Traffic Data Analysis and Mining, Beijing Jiaotong University",1
+1058,Wenqing Cao,"University of California, Berkeley",1
+1059,Wenwu Zhu,Tsinghua University,1
+1060,Wenxi Fei,Hong Kong Polytechnic University,1
+1061,Wenxin Liang,Dalian University of Technology,1
+1062,Wenying Duan,School of Mathematics and Computer Sciences,1
+1063,Whitney Tabor,University of Connecticut,1
+1064,Willa Mannering,Johns Hopkins Applied Physics Laboratory,1
+1065,Xiaohong Cai,Indiana University,1
+1066,Xiaoru Teng,University of Hong Kong,1
+1067,Yaxiong Cao,University of Auckland,1
+1068,Yankai Fu,School of Cyber Science and Engineering,1
+1069,Yajie Xiao,New York University,1
+1070,Yaling Hsiao,University of Birmingham,1
+1071,Yana van de Sande,Radboud University,1
+1072,Yang Yang,Guangdong University of Foreign Studies,1
+1073,Yang Yu,East China Normal University,1
+1074,Yangyang Li,Academy of Cyber,1
+1075,Yangyang Yu,Stevens Institute of Technology,1
+1076,Yanjun Liu,University of New South Wales,1
+1077,Yanli Zhou,New York University,1
+1078,Yahia Showgan,Open University of Israel,1
+1079,Yanran Zhang,Tilburg university,1
+1080,Yanru Jiang,"University of California, Los Angeles",1
+1081,Yanxi Lu,Lancaster University,1
+1082,Yao Tian,University of Science and Technology of China,1
+1083,Yaohui Jin,Artificial Intelligence Institute,1
+1084,Yaokang Zhu,Huawei company,1
+1085,Yaomin Jiang,Max Planck Institute for Human Development,1
+1086,Yasuo Kuniyoshi,University of Tokyo,1
+1087,Yahong Hu,Zhejiang University of Technology,1
+1088,Y. Ivette Colón,University of Wisconsin-Madison,1
+1089,Xiaosong Li,Military Science Information Research Center,1
+1090,Xintong Zhang,"Beijing Key Lab of Traffic Data Analysis and Mining, Beijing Jiaotong University",1
+1091,Xiaotao Liu,University of Auckland,1
+1092,Xiaowei Bai,"Defense Innovation Institute, Academy of Military Sciences",1
+1093,Xiaoxi Sun,University of Wisconsin-Madison,1
+1094,Xin Lian,Georgia Institute of Technology,1
+1095,Xin Wang,Tsinghua University,1
+1096,Xin Xie,"University of California, Irvine",1
+1097,Xinhai Xu,Academy of Military Sciences,1
+1098,Xinlei (Daisy) Lin,New York University,1
+1099,Xinyi Dong,Beijing Normal University,1
+1100,Xuechen Zhao,National University of Defense and Technology,1
+1101,Xinyu Guo,"Department of Health Policy and Management, West China School of Public Health and West China Fourth Hospital, Sichuan University",1
+1102,Xinyu Xie,Mississippi State University,1
+1103,Xinyue Hu,"University of California, Irvine",1
+1104,Xinyue Liu,Dalian University of Technology,1
+1105,Xixian Liao,Universitat Pompeu Fabra,1
+1106,Xiyuan Wang,Peking University,1
+1107,Xu Xu,Shanghai Jiao Tong University,1
+1108,Xubin Huang,"Guangdong Telecom Planning and Design Institute Co, Ltd",1
+1109,Wataru Toyokawa,RIKEN Center for Brain Science,1
+1110,Wasita Mahaphanit,Dartmouth College,1
+1111,Wary Kamaiura Sabino,Secretaria Estadual de Educaçao,1
+1112,Uma Shanker Tiwary,Indian Institute of Information Technology Allahabad,1
+1113,Tuval Raz,Technion - Israel Institute of Technology,1
+1114,Tuğçe Nur Pekçetin,Middle East Technical University,1
+1115,Tyler Giallanza,Princeton Neuroscience Institute,1
+1116,Tyler Knowlton,University of Pennsylvania,1
+1117,Tzu-Mao Li,"University of California, San Diego",1
+1118,Téa Wright,University of Colorado Boulder,1
+1119,Ulises Daniel Serratos Hernandez,"University College London Queen Square Institute of Neurology, University College London",1
+1120,Ulrich Hoffrage,university of lausanne,1
+1121,Umang Bhatt,New York University,1
+1122,Tucker J Marion,Northeastern University,1
+1123,Umesh K Singla,Princeton University,1
+1124,Umut Guclu,"Donders institute for brain, cognition and behaviour",1
+1125,Umut Guclu,Radboud University,1
+1126,Umut Güçlü,Radboud University,1
+1127,Uri Hasson,University of Trento,1
+1128,Urs Granacher,University of Potsdam,1
+1129,Urvi Maheshwari,"University of California, San Diego",1
+1130,Valentina Gliozzi,University of Torino,1
+1131,Tuisku Tammi,University of Helsinki,1
+1132,Tsutomu Terada,Kobe University,1
+1133,Wanzeng Kong,Hangzhou Dianzi University,1
+1134,Tommaso Ghilardi,Birkbeck University of London,1
+1135,Tobias Ungerer,Concordia University,1
+1136,Toby D Pilditch,University College London,1
+1137,Toby D Pilditch,University of Oxford,1
+1138,Todd Wareham,Memorial University of Newfoundland,1
+1139,Tom Foulsham,University of Essex,1
+1140,Tom Heyman,Leiden University,1
+1141,Tom Verguts,Ghent University,1
+1142,Tomasz Zurek,University of Amsterdam,1
+1143,Tommaso Lamarra,University of Bologna,1
+1144,Trinidad Belén Speranza,National Scientific and Technical Research Council,1
+1145,Tomohiro Nagashima,Saarland University,1
+1146,Tomohito Yamazaki,Graduate School of Media and Governance,1
+1147,Top Piriyakulkij,Cornell University,1
+1148,Torgrim Solstad,Bielefeld University,1
+1149,Tori Qiu,Stanford University,1
+1150,Toshihiko Matsuka,Chiba University,1
+1151,Travis J. Wiltshire,Tilburg University,1
+1152,Trinidad Belén Speranza,Centro de Investigaciones en Psicología y Psicopedagogía National Scientific Research and Technology Council,1
+1153,Valeriia Tykhonenko,Paderborn University,1
+1154,Valerio Pepe,Havard University,1
+1155,Valeriya Sklemenova,HSE University,1
+1156,Vlad C Nedelcu,University of Edinburgh,1
+1157,Vinoo Alluri,"International Institute of Information Technology, Hyderabad",1
+1158,Vinsea A V Singh,National Brain Research Centre,1
+1159,Viola Pucci,University of Melbourne,1
+1160,Violet Xiang,Stanford University,1
+1161,Virginia A Marchman,Stanford University,1
+1162,Virginia Valerio-Lambert,California State University East Bay,1
+1163,Virginie van Wassenhove,"CEA, INSERM",1
+1164,Vismay Rathod,Stevens Institute of Technology,1
+1165,Vrinda Bhatia,Jawaharlal Nehru University,1
+1166,Valter Prpic,University of Bologna,1
+1167,Vsevolod Kapatsinski,University of Oregon,1
+1168,Václav Jonáš Podlipský,"Faculty or Arts, Palacký University",1
+1169,WEI HUANG,University of Michigan Ann Arbor,1
+1170,Wai Ting Siok,Hong Kong Polytechnic University,1
+1171,Wai Wong,KU Leuven,1
+1172,Walker Bargmann,Yale University,1
+1173,Walter Schaeken,KU Leuven,1
+1174,Wang Guangtong,University of Exeter,1
+1175,Vinodh G. Kumar,Penn State College of Medicine,1
+1176,Vinicius Macuch Silva,University of Birmingham,1
+1177,Vincent Schmidt,University of Osnabrück,1
+1178,Vima Gupta,Georgia Institute of Technology,1
+1179,Vanessa Cheung,University College London,1
+1180,Vanessa G Lee,University of Minnesota,1
+1181,Vanessa Simmering,"Doctrina Consulting, LLC",1
+1182,Vasanth Sarathy,Tufts University,1
+1183,Vedant Biren Shah,University of Bremen,1
+1184,Veerle P Vijverberg,University of Amsterdam,1
+1185,Vera Da Silva Sinha,University of Oxford,1
+1186,Vera Kempe,Abertay University,1
+1187,Vered Pnueli,Shenkar,1
+1188,Verity Pinter,"University of California, Berkeley",1
+1189,Veronica Aranda,Stanford University,1
+1190,Verónica Ramenzoni,Centro de Investigaciones en Psicología y Psicopedagogía National Scientific Research and Technology Council,1
+1191,Verónica Ramenzoni,National Scientific and Technological Council of Argentina,1
+1192,Vibeke Bliksted,Aarhus University,1
+1193,Victor Nogueira Dias Gabiatti,Universidade Federal do ABC,1
+1194,Victoria L Jacoby,"University of California, Los Angeles",1
+1195,Vijay Marupudi,Georgia Institute of Technology,1
+1196,Yasutada Sudo,University College London,1
+1197,Yazhou Sun,Military Science Information Research Center,1
+1198,Tobias Egner,Duke University,1
+1199,Zhi Jin,Peking University,1
+1200,Zeynep Gunes Gunes,Universitat de València,1
+1201,Zhaotie Hao,Northwestern Polytechnical University,1
+1202,Zhenchao Li,Sichuan University,1
+1203,Zheng Jiang,Beijing University of Posts and Telecommunications,1
+1204,Zhengxuan Wu,Stanford University,1
+1205,Zhengyi Wang,Hangzhou Dianzi University,1
+1206,Zhenlin Chen,Leiden University,1
+1207,Zhenyu Fang,Northwestern Polytechnical University,1
+1208,Zhi Yi Tan,Yale NUS College,1
+1209,Zeynep Aydin,Brown University,1
+1210,Zhihao Zuo,Fudan University,1
+1211,Zhimeng Li,Yale University,1
+1212,Zhino Ebrahimi,RPTU University of Kaiserslautern-Landau,1
+1213,Zhiqiang Gao,Southeast University,1
+1214,Zhirui Chen,University of Amsterdam,1
+1215,Zhiwen Yu,Northwestern Polytechnical University,1
+1216,Zhongxue Gan,Fudan University,1
+1217,Zhongyi Zhang,Tianjin University,1
+1218,Zeynep Genç,University of Kent,1
+1219,Zeyi Zang,University of Illinois Urbana-Champaign,1
+1220,Zhuojun Ying,"University of California, San Diego",1
+1221,Zachary J. Longo,University of Hartford,1
+1222,Yuqi Zhou,University of Warwick,1
+1223,Yuqing Zhang,University of Groningen,1
+1224,Yuri Sato,Ochanomizu University,1
+1225,Yusuke Miyao,University of Tokyo,1
+1226,Yutaro Onuki,Hitotsubashi University,1
+1227,Yutong Ye,East China Normal University,1
+1228,Yuxi Ma,"State Key Laboratory of General Artificial Intelligence, Beijing Institute for General Artificial Intelligence (BIGAI)",1
+1229,Yuzhen Dong,University of Oxford,1
+1230,Zachary Nicholas Houghton,"University of California, Davis",1
+1231,Zeinab Majidifard,Shahid Beheshti University,1
+1232,Zachary P Rosen,"University of California, Los Angeles",1
+1233,Zachary Peck,University of Cincinnati,1
+1234,Zack Dulberg,Princeton University,1
+1235,Zahy Bnaya,myWhatIf foundation,1
+1236,Zaida McClinton,Johns Hopkins University,1
+1237,Zainab Mohamed,Indiana University Bloomington,1
+1238,Zakir Makhani,Northeastern University,1
+1239,Zara Harmon,Max Planck Institute for Psycholinguistics,1
+1240,Zhuo Sun,Northwestern Polytechnical University,1
+1241,Zhuoyi Huang,Stanford University,1
+1242,Yağmur Deniz Kısa,Max Planck Institute for Evolutionary Anthropology,1
+1243,sen su,Beijing University of Posts and Telecommunications,1
+1244,chiara fini,Sapienza University of Rome,1
+1245,dogukan demircioglu,University of Waterloo,1
+1246,gang cao,XiDian University,1
+1247,ibrahim akkan,Koç University,1
+1248,kensuke nakazato,Faculty of Science and Engineering,1
+1249,nofar kochavi,Tel Aviv University,1
+1250,qiang wang,Xidian University,1
+1251,sadegh Ghaderi,Institute of Cognitive and Brain Sciences Cognitive modeling,1
+1252,shruti goyal,FLAME University,1
+1253,ayushi kumari agrawal,"International Institute of Information Technology, Hyderabad",1
+1254,vicente soto,Universidad Adolfo Ibañez,1
+1255,zhiyu chen,Computer Science and Technology,1
+1256,Özgür Saydır,Koç University,1
+1257,Özlem Yeter,University of Groningen,1
+1258,İrem Küsmüş,Sabancı University,1
+1259,Şeyda Evsen,Bilkent University,1
+1260,Şeyma Kalender,Sabanci University,1
+1261,Şule Gülpınar Çiftkaya,Bahçeşehir University,1
+1262,chaomeng chen,Beijing University of Posts and Telecommunications,1
+1263,Zoë Amanda Wilson,University of Melbourne,1
+1264,Zhuqian Zhou,"Teachers College, Columbia University",1
+1265,Zixun Sun,Tencent,1
+1266,Zihan Xu,Aix-Marseille University,1
+1267,Ziheng Peng,School of Cyber Science and Engineering,1
+1268,Ziheng Wang,"Defense Innovation Institute, Academy of Military Sciences",1
+1269,Zili Wang,Iowa State University,1
+1270,Ziliang Feng,"College of Computer Science, Sichuan University",1
+1271,Zilu Wang,Harbin Institute Technology,1
+1272,Zirui Xiang,South China University of Technology,1
+1273,Zixuan Wang,City University of Hong Kong,1
+1274,Ziyin Gu,University of Chinese Academy of Sciences,1
+1275,Zorana Zupan,University of Belgrade,1
+1276,Ziyuan Luo,HKBU,1
+1277,Zo Ebelt,"City, University of London",1
+1278,Zoe Hemsley,University of Cambridge,1
+1279,Zoe Ovans,University of Pennsylvania,1
+1280,Zoe W He,"University of California, San Diego",1
+1281,Zoltan Jakab,Eötvös Loránd University,1
+1282,Zoran Kovacevic,ETH Zürich,1
+1283,Zoran Tiganj,Indiana University,1
+1284,Yuqi Ye,University of Warwick,1
+1285,Yunyi Zhou,"College of Computer Science, Sichuan University",1
+1286,Yunxi Xiong,University College London,1
+1287,Yipu Wei,Peking University,1
+1288,Yiming Liang,Universiteit Gent,1
+1289,Yiming Lu,"University of California, Irvine",1
+1290,Ying Ren,University of Sheffield,1
+1291,Ying-Chien Wang,National Cheng Kung University,1
+1292,Ying-Hsang Liu,Uppsala University,1
+1293,Yingbo Zhou,East China Normal University,1
+1294,Yingjia Wan,"Institute of Psychology, Chinese Academy of Sciences",1
+1295,Yinuo Du,Software and Societal Systems Department,1
+1296,Yiqi Nie,East China Normal University,1
+1297,Yijun Lin,University of Florida,1
+1298,Yiqun Chen,Institute of Psychology,1
+1299,Yiran Chen,University of Wisconsin-Madison,1
+1300,Yitong Lin,University of Warwick,1
+1301,Yixin Zhu,Peking University,1
+1302,Yo Ehara,Tokyo Gakugei University,1
+1303,Yoav Ben Yaakov,Tel Aviv University,1
+1304,Yoav Meiri,Technion,1
+1305,Yohei Oseki,University of Tokyo,1
+1306,Yikai Gong,HKBU,1
+1307,Yijin Fang,Tsinghua University,1
+1308,Yunlong Fan,Southeast University,1
+1309,Yi Jiang,Shanghai International Studies University,1
+1310,Ye Yan,"Defense Innovation Institute, Academy of Military Sciences",1
+1311,Yefei Liang,Hiroshima University,1
+1312,Yejin Choi,Allen Institute for Artificial Intelligence,1
+1313,Yejin Choi,University of Washington,1
+1314,Yeline Yiyi Chen,Harvard University,1
+1315,Yeray Mera,University of the Basque Country UPV/EHU,1
+1316,Yevgeni Berzak,Technion,1
+1317,Yi Huang,Lingnan University,1
+1318,Yi Ting Huang,University of Maryland,1
+1319,Yifei He,Philipps University Marburg,1
+1320,Yi Ting Huang,University of Maryland College Park,1
+1321,Yi Wang,Beijing University of Posts and Telecommunications,1
+1322,Yi Zhang,Jilin University,1
+1323,Yi-Lun Weng,University of Delaware,1
+1324,Yian Xu,Kennesaw State University,1
+1325,Yichen Li,Harvard University,1
+1326,Yichun Liu,Fudan University,1
+1327,Yifan Lyu,"Institute of Software, Chinese academy of sciences",1
+1328,Yoko Tsuchiya,Kao Corporation,1
+1329,Yoko Urano,Max Planck Institute for Empirical Aesthetics,1
+1330,Yomn Elsayed,Erasmus University Rotterdam,1
+1331,Yukina Natsume,NTT Communication Science Laboratories,1
+1332,Yujia Yang,Max Planck Institute for Human Develpoment,1
+1333,Yujia Zhang,Ohio State University,1
+1334,Yujiu Yang,Institute of Data and Information,1
+1335,Yujun Li,Peking University,1
+1336,Yuka Machino,Massachusetts Institute of Technology,1
+1337,Yuki Tsukamura,University of Tokyo,1
+1338,Yukie Nagai,University of Tokyo,1
+1339,Yukihiro Morimoto,Osaka Prefecture University,1
+1340,Yulin Dong,Peking University,1
+1341,Yong Liao,University of Science and Technology of China,1
+1342,Yuliya Dubinska,University College London,1
+1343,Yuliya Zubak,University of Wisconsin-Madison,1
+1344,Yulu Qin,New York University,1
+1345,Yun Zhang,Southwestern University of Finance and Economics,1
+1346,Yundeok Kim,Yonsei University,1
+1347,Yung Han Khoe,Radboud University,1
+1348,Yunhao Zhang,"State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, CAS, Beijing, China",1
+1349,Yunke Chen,University of Hong Kong,1
+1350,Yuhui Du,Ohio State University,1
+1351,Yufeng Xie,Xidian University,1
+1352,Yufan Zhang,Beijing Language and Culture University,1
+1353,Yue Zou,Shanghai International Studies University,1
+1354,YongFeng Huang,Tsinghua University,1
+1355,Yongjing Ren,Rutgers University,1
+1356,Yongqiang Zhao,Peking University,1
+1357,Yoolim Kim,Wellesley College,1
+1358,Yoshiyuki Ohmura,University of Tokyo,1
+1359,Yosuke Fukuchi,Tokyo Metropolitan University,1
+1360,Younes Strittmatter,Brown University,1
+1361,Younyoung Bang,Seoul National University,1
+1362,Yousef Qamaz,Institute for Geoinformatics,1
+1363,Yu Han,University of Macau,1
+1364,Yu-Jung Heo,KT,1
+1365,Yuan Zhou,Chinese Academy of Sciences,1
+1366,Yuanhang Luo,PolyU,1
+1367,Yubo Zhou,HKBU,1
+1368,Yue Chen,Radboud University,1
+1369,Yue SONG,University College London,1
+1370,Yue Zhang,University of Michigan,1
+1371,Tobias Hauser,University of Tübingen,1
+1372,Tingke Shen,Max Planck Institute for Biological Cybernetics,1
+1373,Rista C Plate,University of Pennsylvania,1
+1374,Satu Kluvich,Eberhard Karls Universität,1
+1375,Sarah J Woods,University of Utah,1
+1376,Maliha Naushad Mian,University of New South Wales,1
+1377,Sarah Stolp Shepherd,"University of California, Berkeley",1
+1378,Sarah Yi,University of Pennsylvania,1
+1379,Sarang Jeong,Stanford University,1
+1380,Sashank Pisupati,Limbic Ltd,1
+1381,Saskia Jaarsveld,Technisc he Universität Kaiserslautern,1
+1382,Satchel Grant,Stanford University,1
+1383,Satwick Sen Sarma,Indian Institute of Technology Kanpur,1
+1384,Sara Kjær Kristensen,Aarhus University,1
+1385,Savannah Chandler,University of Florida,1
+1386,Scott Jarvis,Northern Arizona University,1
+1387,Scott Mongold,Université libre de Bruxelles,1
+1388,Seamus Donnelly,Australian National University,1
+1389,Sean Dae Houlihan,Dartmouth,1
+1390,Sean Duffy,Rutgers University Camden,1
+1391,Sean Harshman,Air Force Research Lab,1
+1392,Sebastian Gluth,University of Hamburg,1
+1393,Sarah Dolscheid,University of Cologne,1
+1394,Sara Jasim,York University,1
+1395,Sebastian Otte,University of Lübeck,1
+1396,Sander Nieuwenhuis,Leiden University,1
+1397,Samuel David McDougle,Yale Univeristy,1
+1398,Samuel Forbes,Durham University,1
+1399,Samuel Fynes-Clinton,Rotman Research Institute,1
+1400,Samuel Greiff,University of Luxembourg,1
+1401,Samuel Henri Dupret,University College London,1
+1402,Samuel J. Cheyette,Massachusetts Institute of Technology,1
+1403,Samuel Johnson,University of Waterloo,1
+1404,Samuli Reijula,University of Helsinki,1
+1405,Sandra Blythin Constantinou Juhasz,Erasmus University Rotterdam,1
+1406,Sara Jaramillo,University of Pittsburgh,1
+1407,Sangah Lee,Seoul National University,1
+1408,Sangeet Khemlani,Naval Research Laboratory,1
+1409,Sanghee J. Kim,University of Chicago,1
+1410,Sanja Sreckovic,Ruhr University Bochum,1
+1411,Sanne Schagen,Netherlands Cancer Institute,1
+1412,Santina Simone Kemper,Humboldt Universität zu Berlin,1
+1413,Saoirse Connor Desai,University of Sydney,1
+1414,Sara Falcone,Vassar College,1
+1415,Sebastian Musslick,University of Osnabrück,1
+1416,Seiji Yamada,National Institute of Informatics,1
+1417,Shruti Kate,Kent State University,1
+1418,Shintaro Sato,Saarland University,1
+1419,Shaozhe Cheng,Zhejiang University,1
+1420,Sharon Goldwater,University of Edinburgh,1
+1421,Sharon Peperkamp,Ecole Normale Supérieure - Université Paris Sciences et Lettres,1
+1422,Shashank Mehrotra,"Honda Research Institute USA, Inc",1
+1423,Shaylene E Nancekivell,University of Manitoba,1
+1424,Shengbo Chen,Henan University,1
+1425,Shervin Nosrati,"University of California, Merced",1
+1426,Shilpa Dang,Indian Institute of Technology Jodhpur,1
+1427,Shira Tal,University of Edinburgh,1
+1428,Shannon Wing,Massachusetts Institute of Technology,1
+1429,Shiro Kumano,Nippon Telegraph and Telephone Corporation,1
+1430,Sho Akamine,Max Planck Institute for Psycholinguistics,1
+1431,Sho Tamakawa,Hiroshima University,1
+1432,Shogo Makioka,Osaka Metropolitan University,1
+1433,Shohei Hidaka,Japan Advanced Institute of Science and Technology,1
+1434,Shota Momma,University of Massachusetts Amherst,1
+1435,Shravan Vasishth,Potsdam,1
+1436,Shreya Kapoor,Friedrich-Alexander-Universität Erlangen-Nürnberg,1
+1437,Shaonan Wang,"State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, CAS, Beijing, China",1
+1438,Shannon C Yasuda,New York University,1
+1439,Seiya Nakata,"International Research Center for Neurointelligence, University of Tokyo",1
+1440,Seongmin Mun,Ajou university,1
+1441,Sejin Yoon,Hanyang University,1
+1442,Selene Arfini,University of Pavia,1
+1443,Selin Topel,Leiden University,1
+1444,Selma Berfin Tanis,Sabanci University,1
+1445,Selma Hardegger,University of Zurich,1
+1446,Semih C. Aktepe,University of Marburg,1
+1447,Senne Braem,Ghent University,1
+1448,Seongho Choi,Seoul National University,1
+1449,Seraphina Zhang,University of Cambridge,1
+1450,Shane Steinert-Threlkeld,University of Washington,1
+1451,Sergei Monakhov,Friedrich Schiller University Jena,1
+1452,Sergey Kovalchuk,Huawei,1
+1453,Serkan Pekçetin,Middle East Technical University,1
+1454,Seth Madlon-Kay,Duke University,1
+1455,Seung Joo Yoo,Seoul National University,1
+1456,Sevan Khoy Harootonian,Princeton University,1
+1457,Seyma Nur Ertekin,University of Amsterdam,1
+1458,Shadab Tabatabaeian,"University of California, Merced",1
+1459,Sami Gulgoz,Koc University,1
+1460,Samah O Abdelrahim,Stanford University,1
+1461,Sam Whitman McGrath,Brown University,1
+1462,Ronald Grau,University of Sussex,1
+1463,Rolf Ulrich,University of Tübingen,1
+1464,Roman Abel,Ruhr University Bochum,1
+1465,Roman Feiman,Brown,1
+1466,Roman Stengelin,Max Planck Institute for Evolutionary Anthropology,1
+1467,Romy Müller,Technische Universität Dresden,1
+1468,Romy Müller,"Technische Universität Dresden, Chair of Engineering Psychology and Applied Cognitive Research",1
+1469,Ron Shprints,Massachusetts Institute of Technology,1
+1470,Ron Sun,RPI,1
+1471,Rondeline M. Williams,Stanford University,1
+1472,Rogier A Kievit,donders,1
+1473,Ronessa Dass,Carleton University,1
+1474,Rongqin Liu,Southwestern University of Finance and Economics,1
+1475,Rongrong Sheng,Anhui Medical University,1
+1476,Ronja Isabella Stemler,Technische Universität Darmstadt,1
+1477,Roope Kaaronen,University of Helsinki,1
+1478,Rosalind Owen,University of Edinburgh,1
+1479,Rosanne Luu,University of Wisconsin-Madison,1
+1480,Ross Deans Kristensen-McLachlan,Aarhus University,1
+1481,Rogier B. Mars,University of Oxford,1
+1482,Rogier A Kievit,"Radboud university medical center, Donders Institute for Brain, Cognition and Behaviour",1
+1483,Sam Musker,Brown University,1
+1484,Robin Clark,University of Pennsylvania,1
+1485,Rob Schoonen,Radboud University,1
+1486,Robert Glushko,"University of California, Berkeley",1
+1487,Robert Mackiewicz,SWPS University of Social Science and Humanities,1
+1488,Robert Nosofsky,Indiana University,1
+1489,Robert Savage,York University,1
+1490,Robert Z. Sparks,Stanford University,1
+1491,Roberta Sellaro,University of Padova,1
+1492,Roberto Aguirre,Universidad de la República,1
+1493,Robin Watson,Arizona State University,1
+1494,Roger Yu-Hsiang Lo,University of British Columbia,1
+1495,Robrecht van der Wel,Rutgers University,1
+1496,Rochelle Choenni,ILLC,1
+1497,Rocío Belén Lión,Universidad de la República,1
+1498,Rodrigo Carrasco-Davis,University College London,1
+1499,Rodrigo Mello Medina,University of Florida,1
+1500,Roel M. Willems,Radboud University,1
+1501,Roger Beaty,Pennsylvania State University,1
+1502,Roger Schvaneveldt,Independent Researcher,1
+1503,Roxane Bertrand,Aix-Marseille Université,1
+1504,Ruben Alexandre Castro,University of Warsaw,1
+1505,Ruben Potthoff,Netherlands Cancer Institute,1
+1506,Sagi Jaffe-Dax,Tel Aviv University,1
+1507,Sabina Leon,Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT),1
+1508,Sabina Leon,CONICET-UNCo,1
+1509,Sabine Hunnius,Donders Institute,1
+1510,Sabine U. König,University of Osnabrück,1
+1511,Sabine Yeung,University of Cambridge,1
+1512,Sabria Hinton,California State University East Bay,1
+1513,Sabrina Boulkour,Université de Bourgogne,1
+1514,Sachiko Kiyokawa,University of Tokyo,1
+1515,Sahel Azizpour,"Donders institute for brain, cognition and behaviour",1
+1516,Rugile Vaitkunaite,Erasmus University Rotterdam,1
+1517,Sahiti Chebolu,Max Planck Institute for Biological Cybernetics,1
+1518,Sai Krishna,University of Southern California,1
+1519,Salima Hackeek,University of Toronto,1
+1520,Salomé Cojean,Univ Grenoble Alpes,1
+1521,Salvatore Gaetano Chiarella,"International School for Advanced Studies, SISSA",1
+1522,Salvatore Gaetano Chiarella,Sapienza University of Rome,1
+1523,Sam Hall-McMaster,Harvard University,1
+1524,Sam Jabbari,Erasmus University Rotterdam,1
+1525,SUBBA REDDY OOTA,Inria,1
+1526,SRIJA KRISHNA BHUPATHIRAJU,International Institute Of Information Technology,1
+1527,Rémy Portelas,Ubisoft,1
+1528,Ryutaro Uchiyama,Tübingen AI Center,1
+1529,Rui Mao,Nanyang Technological University,1
+1530,Rui Zhang,Yale University,1
+1531,Ruixiang Liao,Hangzhou Dianzi University,1
+1532,Ruizhe Zhou,ENS,1
+1533,Ruohan Zhang,Stanford University,1
+1534,Ruolan Leslie Famularo,University of Maryland,1
+1535,Ruomeng Zhu,University of Amsterdam,1
+1536,Ruoxi Qi,University of Hong Kong,1
+1537,Ruslan Spartakov,Philipps University Marburg,1
+1538,Russell Poldrack,Stanford University,1
+1539,Russell Richie,University of Pennsylvania,1
+1540,Ryan Bruggeman,Northeastern University,1
+1541,Ryan Cotterell,Institute for Machine Learning,1
+1542,Ryo Ueda,University of Tokyo,1
+1543,Ryo Yoshida,University of Tokyo,1
+1544,Ryunosuke Baba,Shizuoka University,1
+1545,Ryutaro Mori,University of Tokyo,1
+1546,Shriya Parekh,FLAME University,1
+1547,Shu-Ling Peng,National Cheng Kung University,1
+1548,Timo Leuders,University of Education Freiburg,1
+1549,Tanvi Narsapur,International Institute of Information Technology Hyderabad,1
+1550,Taelin Karidi,Hebrew University,1
+1551,Takafumi Aoi,Japan Advanced Institute of Science and Technology,1
+1552,Takashi Hashimoto,Japan Advanced Institute of Science and Technology,1
+1553,Takeshi Okada,University of Tokyo,1
+1554,Takuma Hashimoto,Osaka Metropolitan University,1
+1555,Takumi Arima,Hiroshima University,1
+1556,Tal Linzen,New York University,1
+1557,Tamara Cahyadi,Macquarie University,1
+1558,Tanya Luhrmann,Stanford University,1
+1559,Tadashi Isa,Kyoto University,1
+1560,Tanya Paul,Thales Research and Technology Canada,1
+1561,Tao Gao,"University of California, Los Angeles",1
+1562,Tara Carette,Radboud University,1
+1563,Tatiana Lau,Toyota Research Institute,1
+1564,Tatsuya Kameda,Meiji Gakuin University,1
+1565,Taylor Webb,"University of California, Los Angeles",1
+1566,Tecumseh Fitch,University of Vienna,1
+1567,Ted Sanders,Utrecht University,1
+1568,Tadeg Quillien,University of Edinburgh,1
+1569,TSE MING Chen,National Changhua University of Education,1
+1570,Teoman Ozaydin,Carnegie Mellon,1
+1571,Sushrut Thorat,Osnabrück University,1
+1572,Sultan Karakaş,Hacettepe University,1
+1573,Sumitava Mukherjee,Indian Institute of Technology Delhi,1
+1574,Surabhi S Nath,Max Planck Institute for Biological Cybernetics,1
+1575,Suraj Kumar,Indian Institute of Technology Kanpur,1
+1576,Susan Goldin-Meadow,University of Chicago,1
+1577,Susanne Fuchs,Leibniz-Zentrum Allgemeine Sprachwissenschaft,1
+1578,Susanne Hardecker,SRH University of Applied Sciences,1
+1579,Susanne Haridi,Max Planck School of Cognition,1
+1580,Sven Bertel,Flensburg University of Applied Sciences,1
+1581,Szilard Toth,Eotvos Lorand University,1
+1582,Svetlana Kuleshova,Nicolaus Copernicus University in Torun,1
+1583,Svetlana Pinet,BCBL,1
+1584,Sydney Levine,Allen Institute for Artificial Intelligence,1
+1585,Sydney Levine,Massachusetts Institute of Technology,1
+1586,Syed Masum Billah,Pennsylvania State University,1
+1587,Sylvain Chartier,University of Ottawa,1
+1588,Sylviane Valdois,CNRS et Université Grenoble Alpes,1
+1589,Szabolcs Kiss,University of Pécs,1
+1590,Temitope Oshinowo,Princeton University,1
+1591,Teresa Limata,University of Turin,1
+1592,Shuai Shao,Bard College,1
+1593,Tianyi Li,Boston College,1
+1594,Théo Morfoisse,"Cognitive Neuroimaging Unit, INSERM, CEA, Université Paris Saclay, NeuroSpin Center France",1
+1595,Tiana V. Simovic,University of Toronto,1
+1596,Tianle Cai,Georgia Institute of Technology,1
+1597,Tianqi Wang,University of Hong Kong,1
+1598,Tianshu Chen,University College London,1
+1599,Tianwei Gong,University of Edinburgh,1
+1600,Tianwei Zhang,Nanyang Technological University,1
+1601,Tianxiang Li,Harvard University,1
+1602,Tibor Bosse,Radboud University,1
+1603,Thomas Shultz,McGill University,1
+1604,Tibor Tauzin,University of Vienna,1
+1605,Tiffany Doan,"University of Toronto, Scarborough",1
+1606,Tim C Rickard,"University of California, San Diego",1
+1607,Tim Halverson,"Aptima, Inc",1
+1608,Tim Kietzmann,University of Osnabrück,1
+1609,Tim Pleskac,Indiana University,1
+1610,Tim Wehner,"University Hospital Knappschaftskrankenhaus Bochum, Dept of Neurology, Ruhr-Epileptology, Bochum",1
+1611,Timo Buchholz,Universität zu Köln,1
+1612,Thuan Nguyen,Worcester Polytechnic Institute,1
+1613,Thomas Schatz,Aix-Marseille Université,1
+1614,Terrence C Stewart,University of Waterloo,1
+1615,Theresa Elise Wege,Loughborough University,1
+1616,Terry Eskenazi,Koç University,1
+1617,Teruhisa Misu,"Honda Research Institute USA, Inc",1
+1618,Tetsuya Yasuda,University of Tokyo,1
+1619,Tevin Williams,"University of California, Merced",1
+1620,Thalia Wheatley,Dartmouth,1
+1621,Thao Nguyen,Brown University,1
+1622,Thara Baburaj,"Indian Institute of Technology, Guwahati",1
+1623,Theodoros Kapogianis,"University of California, I",1
+1624,Theresa Moraes Ramalho,Universidade Federal do ABC,1
+1625,Thomas Lu,"University of California, Berkeley",1
+1626,Thirza Dado,Radboud University,1
+1627,Thomas A. McGee,"University of California, Los Angeles",1
+1628,Thomas C Ormerod,University of Sussex,1
+1629,Thomas Clark,Massachusetts Institute of Technology,1
+1630,Thomas Dighiero--Brecht,"NeuroSpin center, Bât 145, CEA/SAC/DRF/Joliot",1
+1631,Thomas Icard,Stanford University,1
+1632,Thomas J. H. Morgan,Arizona State University,1
+1633,Thomas Lachmann,University of Kaiserslautern-Landau,1
+1634,Suhaylah B Carim Bacor,Carleton University,1
+1635,Sudhakar Mishra,Indian Institute of Technology Kanpur,1
+1636,Stéphane Roman,La Timone Children’s Hospital,1
+1637,Sofia Bonicalzi,Roma Tre University,1
+1638,Simone Luchini,Pennsylvania State University,1
+1639,Simone Sommer Degn,Aalborg University,1
+1640,Siobhan McCourt,University of Exeter,1
+1641,Sixing Chen,New York University,1
+1642,Siyan Liu,NUS,1
+1643,Sjoerd Meijer,Donders Institute,1
+1644,Slawomir Wacewicz,Nicolaus Copernicus University,1
+1645,Snigdha Ayyagari,Indian Institute of Technology Guwahati,1
+1646,Sofiia Rappe,Ruhr University Bochum,1
+1647,Simon Wehrle,University of Cologne,1
+1648,Solim LeGris,New York University,1
+1649,Sonia Guerriero,UNESCO,1
+1650,Sonja Schaeffler,Queen Margaret University Edinburgh,1
+1651,Sonya Kaiser,Ecole Normale Supérieure - Université Paris Sciences et Lettres,1
+1652,Sophia Keil,Johns Hopkins University,1
+1653,Sophia W Deng,Xi'an Jiaotong-Liverpool University,1
+1654,Sophia Wünsch,Goethe University,1
+1655,Sophia Zhi,Massachusetts Institute of Technology,1
+1656,Simona Mancini,"Basque Center on Cognition, Brain and Language",1
+1657,Simon T. van Baal,University of Vienna,1
+1658,Stuart Rodgers,Institute for Defense Analyses,1
+1659,Siddhant Narang,Georgia Institute of Technology,1
+1660,Shuang Zhao,Tencent,1
+1661,Shubham Kumar Bharti,University of Wisconsin-Madison,1
+1662,Shuchen Wu,Max Planck Institute for Biological Cybernetics,1
+1663,Shufan Mao,University of Illinois at Urbana Champaign,1
+1664,Shuhei Tsuchida,Ochanomizu University,1
+1665,Shuma Iwatani,University of Tokyo,1
+1666,Shuning Jin,Rutgers University,1
+1667,Shuo Feng,Peking University,1
+1668,Siddhartha Vemuri,Georgia Institute of Technology,1
+1669,Simon Laham,University of Melbourne,1
+1670,Sienna Radifera,Massachusetts Institute of Technology,1
+1671,Sigrid Mues,"Dpt of Neurology, Ruhr-Epileptology",1
+1672,Sihan Chen,Massachusetts Institute of Technology,1
+1673,Silja Kessler,Max Planck Institute for Biologial Cybernetics,1
+1674,Silke M. Göbel,University of York,1
+1675,Silvy H.P. Collin,Tilburg University,1
+1676,Simon Braun,Erasmus University Rotterdam,1
+1677,Simon DeDeo,Carnegie Mellon University,1
+1678,Sophie Aerdker,Ruhr-Universität Bochum,1
+1679,Sophie Arnold,New York University,1
+1680,Sophie Bridgers,Massachusetts Institute of Technology,1
+1681,Stephanie Alderete,"University of California, Berkeley",1
+1682,Stefanie Wetzel,highQ Computerlösungen GmbH,1
+1683,Stefano Sarao Mannelli,University College London,1
+1684,Steffie van der Steen,"Faculty of Behavioral and Social Sciences, University of Groningen",1
+1685,Stella Gerdemann,Max Planck Institute for Human Development,1
+1686,Stephan Abele,Chair of Vocational Education,1
+1687,Stephan C. Meylan,Massachusetts Institute of Technology,1
+1688,Stephan Heinzel,Freie Universität Berlin,1
+1689,Stephan Sehring,Ruhr-Universität Bochum,1
+1690,Stephanie Huette,University of Memphis,1
+1691,Sophie Mazor,"University of California, San Diego",1
+1692,Stephanie Macmahon,University of Queensland,1
+1693,Stephen Ferrigno,University of Wisconsin-Madison,1
+1694,Stephen Mark Wechsler,University of Texas at Austin,1
+1695,Steve Stroessner,"University of California, Los Angeles",1
+1696,Steven Phillips,National Institute of Advanced Industrial Science and Technology,1
+1697,Steven Sloman,Brown University,1
+1698,Stine Nyhus Larsen,Aarhus University,1
+1699,Stratis Tsirtsis,Max Planck Institute for Software Systems,1
+1700,Stefanie Tellex,Brown University,1
+1701,Stefania D. Iancu,MemoryLab,1
+1702,Stefan Vermeent,Utrecht University,1
+1703,Stefan Schnell,University of Zurich,1
+1704,Soran Malaie,"University of California, Merced",1
+1705,Sorato Minami,Kashino Diverse Brain Research Laboratory,1
+1706,Sorato Minami,"Kashino Diverse Brain Research Laboratory, NTT Communication Science Laboratories",1
+1707,Souad Kheder,University of Florida,1
+1708,Spencer Ivy,University of Warsaw,1
+1709,Sreejan Kumar,Princeton University,1
+1710,Stacey Stuart,University of East Anglia,1
+1711,Stanislas Dehaene,"CEA, Inserm, Université Paris-Saclay",1
+1712,Stanislas Dehaene,"INSERM-CEA Cognitive Neuroimaging Unit, NeuroSpin center, Bât 145, CEA/SAC/DRF/Joliot",1
+1713,Stanislas Dehaene,"NeuroSpin Center, CEA DRF/I2BM, INSERM, Unicersité Paris-Sud, Université Paris-Saclay",1
+1714,Stanka A. Fitneva,Queen's University,1
+1715,Stefan Frank,Radboud University,1
+1716,Stefan Hartmann,HHU Düsseldorf,1
+1717,Stefan Kiebel,TUD Dresden University of Technology,1
+1718,Stefan Lazarov,Paderborn University,1
+1719,Stefan M Herzog,Max Planck Institute for Human Development,1
+1720,Stefan Riegl,Radboud University,1
+1721,Malin Spaniol,University Hospital Cologne,1
+1722,Lara Kirfel,Max Planck Institute for Human Development,1
+1723,Malia J. Perez,Stanford University,1
+1724,Christos Bechlivanidis,University College London,1
+1725,Corné Hoekstra,University of Groningen,1
+1726,Cosette Fox,Holy Cross College,1
+1727,Craig Chambers,University of Toronto,1
+1728,Cui Ding,University of Zurich,1
+1729,Céline Budding,Eindhoven University of Technology,1
+1730,Céline Hidalgo,La Timone Children’s Hospital,1
+1731,DIPANJALI YADAV,IIT KANPUR,1
+1732,Daichi Kato,University of Tokyo,1
+1733,Dalin Guo,"University of California, San Diego",1
+1734,Damian E Blasi,Harvard University,1
+1735,Dan Bang,Aarhus University,1
+1736,Dan Yurovsky,Carnegie Mellon University,1
+1737,Dana Kulzhabayeva,University of Toronto,1
+1738,Daniel Ansari,Western University,1
+1739,Daniel C King,Northwestern University,1
+1740,Daniel Casasanto,Cornell University,1
+1741,Daniel J. Horschler,Yale University,1
+1742,Daniel J. Schad,HMU Health and Medical University Potsdam,1
+1743,Daniel J. Schad,University of Potsdam,1
+1744,Corey Yishan Zhou,"University of California, San Diego",1
+1745,Constanza Musso,"City, University of London",1
+1746,Constantin G. Meyer-Grant,University of Freiburg,1
+1747,Ciro Civile,University of Exeter,1
+1748,Chunan Li,University of Edinburgh,1
+1749,Chundra Cathcart,University of Zurich,1
+1750,Chunhui Zhang,"State Key Laboratory of General Artificial Intelligence, Beijing Institute for General Artificial Intelligence (BIGAI)",1
+1751,Chunru Wang,University College London,1
+1752,Chunyan Zhu,"Department of Psychology, Second Affiliated Hospital of Anhui Medical University, School of Mental Health and Psychological Sciences, Anhui Medical University, Hefei, China",1
+1753,Chunying Wu,Peking University,1
+1754,Cindy G Mendoza Gonzalez,Syracuse University,1
+1755,Cindy Xin,Department of Philosophy,1
+1756,Claire Augusta Bergey,University of Wisconsin-Madison,1
+1757,Connie De Vos,Tilburg University,1
+1758,Claire Kuntz,University of Florida,1
+1759,Claire Ott,TU Darmstadt,1
+1760,Claire Stevenson,University of Amsterdam,1
+1761,Clarissa Alfonso,Johns Hopkins University,1
+1762,Claudia Raihert,University of Toronto,1
+1763,Claudio Tennie,University of Tübingen,1
+1764,Clint A. Jensen,University of Wisconsin-Madison,1
+1765,Colter Mitchell,University of Michigan,1
+1766,Daniel LaMarche,University at Buffalo,1
+1767,Daniel M Kasenberg,Tufts University,1
+1768,Daniel P. Feller,University of Memphis,1
+1769,David Moret Oliver,Real Estate Developer,1
+1770,David Hernández-Gutiérrez,"Basque Center on Cognition, Brain and Language (BCBL)",1
+1771,David J. Young,University of Cambridge,1
+1772,David K Sewell,University of Queensland,1
+1773,David Kellen,Syracuse University,1
+1774,David Landy,"Indiana University, Bloomington",1
+1775,David Landy,Netflix,1
+1776,David Levi Tekampe,University of Luxembourg,1
+1777,David Melnikoff,Stanford University,1
+1778,David Peebles,University of Huddersfield,1
+1779,David Heath,University of Memphis,1
+1780,David Peeters,Tilburg University,1
+1781,David Pisoni,Indiana University,1
+1782,David Shanks,University College London,1
+1783,David Trøst Fjendbo,Aarhus University,1
+1784,Davide Ahmar,Donders Institute,1
+1785,DeHao Tao,Tsinghua University,1
+1786,Deanna Barch,Washington University in St Louis,1
+1787,Deborah Cesarini,Duke University,1
+1788,David Heineman,Georgia Institute of Technology,1
+1789,David G. Nagy,University of Tübingen,1
+1790,Daniel W. Heck,University of Marburg,1
+1791,Danisha Watson,California State University East Bay,1
+1792,Daniela Buchillon-Almeida,Reed College,1
+1793,Daniela Czernochowski,University of Kaiserslautern-Landau,1
+1794,Daniela Parra,University of Notre Dame,1
+1795,Daniele Schön,Aix-Marseille University,1
+1796,Danielle Benesch,Thales Research and Technology Canada,1
+1797,Danielle Naegeli,Tilburg University,1
+1798,Daniil Kocharov,Tampere University,1
+1799,Danilo Mitaritonna,"""Sapienza"" University of Rome",1
+1800,Daphne Barretto,Princeton University,1
+1801,David G. Kamper,"University of California, Los Angeles",1
+1802,Dare Baldwin,University of Oregon,1
+1803,Daria Goriachun,Aix-Marseille University,1
+1804,Dario Pesenti,University of Trento,1
+1805,Darko Stojilović,University College London,1
+1806,David A. Bosch,New York University,1
+1807,David C. Noelle,"University of California, Merced",1
+1808,David Danks,"University of California, San Diego",1
+1809,David Dignath,University of Tuebingen,1
+1810,Chrysanthi Nega,American College of Greece,1
+1811,Christopher Welker,Dartmouth College,1
+1812,Ezgi Melisa Yüksel,University of Wisconsin-Madison,1
+1813,Christopher Steele,Concordia University,1
+1814,Cedric Le Bouar,Concordia University,1
+1815,Cem Karbuz,Koç University,1
+1816,Ceren Barış,Özyeğin University,1
+1817,Chandan Srivastava,IIT Bombay,1
+1818,Chanhee Koo,Tsinghua University,1
+1819,Chantel Prat,University of Washington,1
+1820,Charles Kemp,University of Melbourne,1
+1821,Charles Perfetti,University of Pittsburgh,1
+1822,Charley M Wu,University of Tubingen,1
+1823,Charlie Hallart,Aix-Marseille University,1
+1824,Charlotte Uhlemann,University of Osnabrück,1
+1825,Charu Manivannan,"Institute for geoinformatics, University of Muenster",1
+1826,Chelsea Zou,Binghamton University,1
+1827,Chen Cheng,the Hong Kong University of Science and Technology,1
+1828,Chen Yu,University of Texas at Austin,1
+1829,Chen Zhu,Tsinghua University,1
+1830,Cheng Stella Qian,Psychology,1
+1831,Chengqing Zong,"State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, CAS, Beijing, China",1
+1832,Chengwei Tong,University of Science and Technology of China,1
+1833,Cedegao E Zhang,Massachusetts Institute of Technology,1
+1834,Cecilia Calero,Universidad Torcuato Di Tella,1
+1835,Catherine Shee-hei Wong,Hong Kong Metropolitan University,1
+1836,Carolyn Baer,University of British Columbia,1
+1837,Carlos Fernandez-Basso,University College London,1
+1838,Carlos G. Correa,Princeton University,1
+1839,Carlos González-García,University of Granada,1
+1840,Carlos Zednik,Eindhoven University of Technology,1
+1841,Carmen Saldana,Universitat Pompeu Fabra,1
+1842,Carolin Dudschig,University of Tübingen,1
+1843,Carolina A Gattei,Universidad Torcuato Di Tella,1
+1844,Caroline Palmer,McGill University,1
+1845,Casey L Roark,University of New Hampshire,1
+1846,Catherine Qing,Stanford University,1
+1847,Casey Lewry,Princeton University,1
+1848,Cassandra Potier-Watkins,"CEA, Inserm, Université Paris-Saclay",1
+1849,Catalina Torres,University of Zurich,1
+1850,Cate MacColl,University of Queensland,1
+1851,Caterina Villani,University of Bologna,1
+1852,Catherine Hartley,New York University,1
+1853,Catherine Insel,Columbia University,1
+1854,Catherine Insel,Northwestern University,1
+1855,Chengxu Zhuang,Massachusetts Institute of Technology,1
+1856,Chenming Shang,Tsinghua University,1
+1857,Chenxi He,"CEA, Inserm, Université Paris-Saclay",1
+1858,Christoph Stadtfeld,ETH Zürich,1
+1859,Christine H Lind,"University of California, San Diego",1
+1860,Christine Kwon,"University of California, San Diego",1
+1861,Christine M. Massey,"University of California, Los Angeles",1
+1862,Christine Soh Yue,University of Pennsylvania,1
+1863,Christine Stelzel,International Psychoanalytic University,1
+1864,Christoph Aurnhammer,Saarland University,1
+1865,Christoph Finkensiep,University of Amsterdam,1
+1866,Christoph Kellinghaus,Klinikum Osnabrück,1
+1867,Christophe Pallier,"INSERM-CEA Cognitive Neuroimaging Unit, NeuroSpin center, Bât 145, CEA/SAC/DRF/Joliot",1
+1868,Christina Barbieri,University of Delaware,1
+1869,Christopher Connolly,No Affiliation,1
+1870,Christopher Donnan Gravelle,"College of Staten Island, CUNY",1
+1871,Christopher Hilton,Technische Universität Berlin,1
+1872,Christopher Kello,"University of California, Merced",1
+1873,Christopher Kymn,"University of California, Berkeley",1
+1874,Christopher MacLellan,Georgia Institute of Technology,1
+1875,Christopher Myers,Air Force Research Laboratory,1
+1876,Christopher S. S. Monk,University of Michigan,1
+1877,Christina Steele,Harvard University,1
+1878,Christin Schulze,UNSW,1
+1879,Chenyang Xu,Tianjin University,1
+1880,Chris M. Stolle,Lingnan University,1
+1881,Chenyu Bai,South China Normal University,1
+1882,Cherrie Chang,Vassar College,1
+1883,Chiara De Livio,Sapienza Univerisity of Rome,1
+1884,Chiara Mazzocconi,Aix-Marseille University,1
+1885,Chiara Saracini,Universidad Católica del Maule,1
+1886,Chihiro Saegusa,Kao Corporation,1
+1887,Chris Dawson,University of Bath,1
+1888,Chris Doyle,Stanford University,1
+1889,Chris R. Sims,Rensselaer Polytechnic Institute,1
+1890,Christiane Baumann,Harvard Kennedy School,1
+1891,Chris Street,Keele University,1
+1892,Christian Lebiere,Carnegie Mellong University,1
+1893,Christian Luhmann,Stony Brook University,1
+1894,Christian Marianov Georgiev,Université Libre de Bruxelles,1
+1895,Christian Oliver Scholz,Ruhr-Universität Bochum,1
+1896,Christian Schroeder de Witt,University of Oxford,1
+1897,Christiana Moser,University of Toronto,1
+1898,Christiane A. Melzig,Philipps University Marburg,1
+1899,Deborah Talmi,University of Cambridge,1
+1900,Declan Campbell,Princeton University,1
+1901,Dehua Lu,South China Normal University,1
+1902,Denis Mareschal,"Birkbeck, University of London",1
+1903,Elsi Kaiser,University of Southern California,1
+1904,Elwira A. Hałgas,Eindhoven University of Technology,1
+1905,Elyes Tabbane,CEA,1
+1906,Emanuela Campisi,University of Catania,1
+1907,Emel Nur Kaya,Baskent University,1
+1908,Emiel Krahmer,Tilburg University,1
+1909,Emil Trenckner Jessen,Aarhus University,1
+1910,Emilia Kerr,Aix-Marseille University,1
+1911,Emily Atkinson,University of Toronto Mississauga,1
+1912,Emily Carlson,University of Jyväskylä,1
+1913,Emily Cohen,Northeastern University,1
+1914,Emily Creel,Mississippi State University,1
+1915,Emily Foster-Hanson,Swarthmore College,1
+1916,Emily G Liquin,New York University,1
+1917,Emily Goodwin,Stanford University,1
+1918,Emily Jin,Stanford University,1
+1919,Emily Klein,University at Albany,1
+1920,Emily M Neer,"University of California, Los Angeles",1
+1921,Emily Pecsok,Cornell University,1
+1922,Elmarie Venter,Ruhr University,1
+1923,Elliot Saltzman,Boston University,1
+1924,Elliot Andrew Ludvig,University of Warwick,1
+1925,Elizabeth Bonawitz,Harvard,1
+1926,Eline Van Geert,KU Leuven,1
+1927,Elisa Felsche,Max Planck Institute for Evolutionary Anthropology,1
+1928,Elisa Kreiss,"University of California, Los Angeles",1
+1929,Elisa Mattiauda,University College London (University College London),1
+1930,Elisa Schmied,Philipps-Universität Marburg,1
+1931,Elise Prigent,Universuté Paris-Saclay,1
+1932,Elishai Ezra Tsur,Open University,1
+1933,Eliza McCann,University of Toronto,1
+1934,Elizabeth Bonawitz,Harvard Graduate School of Education,1
+1935,Ellen de Bruijn,Leiden University,1
+1936,Elizabeth Chrastil,"University of California, Irvine",1
+1937,Elizabeth Fein,Duquesne University,1
+1938,Elizabeth Fox,Air Force Research Laboratory,1
+1939,Elizabeth Mieczkowski,Princeton University,1
+1940,Elizabeth Musz,Johns Hopkins University,1
+1941,Elizabeth Wonnacott,University of Oxford,1
+1942,Elizaveta Kuznetsova,University of Helsinki,1
+1943,Ella Markham,University of Edinburgh,1
+1944,Emily R. Fyfe,Indiana University,1
+1945,Emily R. Perkins,University of Pennsylvania,1
+1946,Emily Rose Reagan,"University of California, Berkeley",1
+1947,Ethan McCormick,Leiden Unviersity,1
+1948,Erin M. Buchanan,Harrisburg University,1
+1949,Ern Wong,IMT School for Advanced Studies Lucca,1
+1950,Ernesto Guerra,Universidad de Chile,1
+1951,Erno Teglas,Central European University,1
+1952,Erwan Le Quentrec,Orange Innovation,1
+1953,Erwei Yin,"Defense Innovation Institute, Academy of Military Sciences",1
+1954,Esra Oğuz Taşbaş,29 Mayis University,1
+1955,Estefania Ciliotta Chehade,Northeastern University,1
+1956,Eugen Fischer,University of East Anglia,1
+1957,Erik Cambria,NTUsg,1
+1958,Eugenia Marin,University of the Basque Country UPV/EHU,1
+1959,Eunice Yiu,"University of California, Berkeley",1
+1960,Eva Huber,University of Zurich,1
+1961,Eva Louise Rix,Chair of Vocational Education,1
+1962,Evan Orticio,"University of California, Berkeley",1
+1963,Evan Russek,Princeton University,1
+1964,Evelina Fedorenko,Massachusetts Institute of Technology,1
+1965,Eyal Sagi,University of St Francis,1
+1966,Erin H. Bugbee,Carnegie Mellon University,1
+1967,Erik Ayari,University of Tübingen,1
+1968,Emily S. Finn,Dartmouth College,1
+1969,Emma K. Ward,University College London,1
+1970,Emily Sadlier-Brown,University of British Columbia,1
+1971,Emily Silvano,Johns Hopkins University,1
+1972,Emin Orhan,New York University,1
+1973,Emir Akbuga,Koç University,1
+1974,Emma C Tecwyn,York St John University,1
+1975,Emma Gueorguieva,University of Texas at Austin,1
+1976,Emma H Geller,"University of California, San Diego",1
+1977,Emma JL Weisblatt,University of Cambridge,1
+1978,Emma Templeton,Dartmouth,1
+1979,Erica Middleton,Moss Rehabilitation Research Institute,1
+1980,Emma Yu,Harvard University,1
+1981,Emmanouil Konstantinidis,University of Warwick,1
+1982,Emmanuel Pothos,"City, University of London",1
+1983,Enrico Di Pace,Sapienza University of Rome,1
+1984,Enrique Canessa,Adolfo Ibañez University,1
+1985,Enriqueta Canseco-Gonzalez,Reed College,1
+1986,Eric Martinez,Massachusetts Institute of Technology,1
+1987,Eric Schulz,Helmholtz Institute,1
+1988,Eline Aya Hattori,Nagoya University,1
+1989,Elif Çelen,Max Planck Institute for Empirical Aesthetics,1
+1990,Elif Orakçı,Istanbul University,1
+1991,Don Morrison,Carnegie Mellon University,1
+1992,Dimitra Lazaridou-Chatzigoga,University of East Anglia,1
+1993,Dipanjan Roy,Indian Institute of Technology Jodhpur,1
+1994,Djamari Oetringer,Donders Institute,1
+1995,Dominik Battefeld,"Research Center Cognitive Interaction Technology (CITEC), Bielefeld University",1
+1996,Dominik M Endres,"Philipps-Universitaet, Dept Psychology",1
+1997,Dominik Mühl,Philipps-University Marburg,1
+1998,Dominik R. Bach,University College London,1
+1999,Dominik Straub,Technical University of Darmstadt,1
+2000,Donghong Liu,Academy of Military Sciences,1
+2001,Dilay Z. Karadoller,Middle East Technical University,1
+2002,Donghyun Kim,Dongguk university,1
+2003,Dongyu Yao,Wuhan University,1
+2004,Donna Rose Addis,Rotman Research Institute,1
+2005,Dora Biro,University of Rochester,1
+2006,Dora Gozukara,Donders Institute,1
+2007,Dorota Stachura-Zurek,Independent researcher,1
+2008,Dorsa Amir,"University of California, Berkeley",1
+2009,Douglas Wadle,University of Kansas,1
+2010,Dilay Z. Karadoller,Middle East Technical University (METU),1
+2011,Dilay Z. Karadoller,Koç University,1
+2012,Dr Emily Ge Hao-yan,Hong Kong Metropolitan University,1
+2013,Dhara Yu,"University of California, Berkeley",1
+2014,Denise Al-Rubaye-Jung,DSA,1
+2015,Deniz Nur Köken,Koç University,1
+2016,Deon T. Benton,Vanderbilt University,1
+2017,Derek Powell,Arizona State University,1
+2018,Derin Eda Saniz Balderrama,Koç University,1
+2019,Devansh Bansal,University of Southern California,1
+2020,Devpriya Kumar,Indian Institute of Technology,1
+2021,Dezhi Luo,University of Michigan,1
+2022,Dhia Elhak Goumri,Aix-Marseille Univesité,1
+2023,Dila Gürer,Koç University,1
+2024,Di Liu,Johns Hopkins University,1
+2025,Di Lu,Peking University,1
+2026,Diana Verdes,University of Southern Denmark,1
+2027,Diane Pecher,Erasmus University,1
+2028,Diarmuid O'Donoghue,Maynooth University,1
+2029,Diego Fernandez Slezak,Universidad de Buenos Aires,1
+2030,Diego Morales,Adolfo Ibañez University,1
+2031,Dietrich Klakow,Saarland University,1
+2032,Dounia Lakhzoum,Maynooth University,1
+2033,Dr Miguel A. Sorrel,Universidad Autónoma de Madrid,1
+2034,Eliana Hadjiandreou,University of Texas at Austin,1
+2035,Elena Andonova,New Bulgarian University,1
+2036,Ee Von Soh,University of Melbourne,1
+2037,Eeshan Hasan,Indiana University,1
+2038,Ekaterina Khlystova,"University of California, Los Angeles",1
+2039,Ekaterina Pronizius,University of Vienna,1
+2040,Elaine Wang,Yale University,1
+2041,Elayna A Espinal,University of Hartford,1
+2042,Eleanor Brower Schille-Hudson,Stanford University,1
+2043,Elena Allegretti,"La Sapienza, University of Rome",1
+2044,Elena C Cuffari,Franklin and Marshall College,1
+2045,Edmond Awad,University of Exeter,1
+2046,Elena Davitti,University of Surrey,1
+2047,Elena Marx,Central European University,1
+2048,Elena Nicoladis,University of British Columbia,1
+2049,Eleni Orfanidou,"Deree, American College of Greece",1
+2050,Eleni Zimianiti,Max Planck Institute for Psycholinguistics,1
+2051,Eleonora Gualdoni,Universitat Pompeu Fabra,1
+2052,Eli Rosen Sugerman,Columbia University,1
+2053,Elia Haydee Carrasco-Ortíz,Universidad Autónoma de Queretaro,1
+2054,Edward Gibson,Massachusetts of Institute Technology,1
+2055,Edgars Naudiņš,Riga Stradins University,1
+2056,Dr Miguel A. Vadillo,Universidad Autónoma de Madrid,1
+2057,Dr. Suma Ganesh,Dr Shroff's Charity Eye Hospital,1
+2058,Dr Seçkin Arslan,Université Côte d'Azur,1
+2059,Dr Simon Evans,University of Surrey,1
+2060,Dr Vasilije Gvozdenovic,UNIVERSITY OF BELGRADE,1
+2061,Dr. Betty Tuller,National Science Foundation,1
+2062,Dr. Janka Matrai,European Research Council,1
+2063,Dr. Lara Faust,Department of Education,1
+2064,Dr. Sharon Gilad-Gutnick,Massachusetts Institute of Technology,1
+2065,Dr. Soo-Siang Lim,US National Science Foundation,1
+2066,Duk Hee Ka,Pennsylvania State University,1
+2067,Eden Forbes,Indiana University,1
+2068,Duyi Chi,Univerisity of Sydney,1
+2069,Dušan Stamenković,Södertörn University,1
+2070,Dyana Muller,"University of California, Berkeley",1
+2071,EILING YEE,University of Connecticut,1
+2072,Ebru Evcen,"University of California, San Diego",1
+2073,Ece Takmaz,Utrecht University,1
+2074,Ed Donnellan,University College London,1
+2075,Ed Donnellan,University of Warwick,1
+2076,Carlos Alan Velazquez-Vargas,Princeton University,1
+2077,Carla Macias,RUTGERS UNIVERSITY-NEWARK,1
+2078,Carla Hudson Kam,University of British Columbia,1
+2079,Ankit Yadav,National Brain Research Centre,1
+2080,Alicia M Chen,Massachusetts Institute of Technology,1
+2081,Alicja M. Wicher,Ruhr University Bochum,1
+2082,Aliki Papa,University of Bergen,1
+2083,Alina Dracheva,Dartmouth College,1
+2084,Alina Gutoreva,Kazakh-British Technical University,1
+2085,Alina Hussain,University of Birmingham,1
+2086,Alina Palmetshofer,University of Tübingen,1
+2087,Allison Chen,Princeton Univeristy,1
+2088,Alonna Reilly,Franklin and Marshall College,1
+2089,Alvaro Cabana,Universidad de la República,1
+2090,Alvaro Cortés Rodríguez,University of Potsdam,1
+2091,Amaya Fox,University of Queensland,1
+2092,Amber Copeland,University of Sheffield,1
+2093,Amelia Day Jessop,Brown University,1
+2094,Amir Hosein Hadian Rasanan,Basel University,1
+2095,Amir Hussain,Edinburgh Napier University,1
+2096,Amir Lindor,Rutgers University,1
+2097,Amitai Shenhav,Brown University,1
+2098,Amy Lieberman,Boston University,1
+2099,Alice Yang,University of Hong Kong,1
+2100,Alice Xu,"University of California, Los Angeles",1
+2101,Alice Winter,University of Tübingen,1
+2102,Alexei V Samsonovich,"National Research Nuclear University ""MEPhI""",1
+2103,Alexandra Mayn,Saarland University,1
+2104,Alexandra Ortmann,Stony Brook University,1
+2105,Alexandra Perovic,University College London,1
+2106,Alexandra Sarafoglou,University of Amsterdam,1
+2107,Alexandra Steinhilber,Laboratoire de Psychologie et NeuroCognition,1
+2108,Alexandra Witt,University of Tübingen,1
+2109,Alexandre Marois,Université Laval,1
+2110,Alexandre Variengien,Inria,1
+2111,Alexey Koshevoy,Université Aix-Marseille/CNRS,1
+2112,Alice Hein,Technical University of Munich,1
+2113,Alexia Toskos Dils,"Purchase College, SUNY",1
+2114,Alexis C Wellwood,University of Southern California,1
+2115,Alexis K. Black,University of British Columbia,1
+2116,Alexis Le Besnerais,Université Paris-Saclay,1
+2117,Alfred Lim,University of Nottingham Malaysia,1
+2118,Ali Aboelata,University of Maryland,1
+2119,Ali Hummos,Massachusetts Institute of Technology,1
+2120,Ali Shiravand,École Normale Supérieure - PSL,1
+2121,Ana B. Chica,University of Granada,1
+2122,Ana Fló,"NeuroSpin Center, CEA, INSERM, Université Paris-Saclay",1
+2123,Ana Krajinovic,Tilburg University,1
+2124,Angela J Yu,Technical University of Darmstadt,1
+2125,Andrew Lovett,US Naval Research Laboratory,1
+2126,Andrew Wang,University of Wisconsin-Madison,1
+2127,Andrew Z. Flores,University of Illinois Urbana-Champaign,1
+2128,Andy C.H. Lee,University of Toronto,1
+2129,Andy J Wills,Plymouth University,1
+2130,Andy Shi,University College London,1
+2131,Aneesa Conine-Nakano,Stanford University,1
+2132,Angela Grimminger,Paderborn University,1
+2133,Angela J Yu,"University of California, San Diego",1
+2134,Andrew J Mertens,University of Colorado at Boulder,1
+2135,Angela Li,Brown University,1
+2136,Angela Radulescu,Icahn School of Medicine at Mount Sinai,1
+2137,Angelica Hill,University of Massachusetts Amherst,1
+2138,Angélica Mendes,University of Luxembourg,1
+2139,Aniket Kali,University of Toronto,1
+2140,Anissa Baird,University of Toronto,1
+2141,Anita Keshmirian,Forward College,1
+2142,Anita Slonimska,Max Plank Institute for Psycholinguistics,1
+2143,Andrew Li,Georgia Institute of Technology,1
+2144,Andrew Howes,University of Exeter,1
+2145,Anais Capik,Univeristy of Washington,1
+2146,Andrea Rivadulla-Duró,Swiss Centre for Affective Sciences,1
+2147,Anastasia Bizyaeva,University of Washington,1
+2148,Anastasia Kitsantas,George Mason University,1
+2149,Anastasia Kiyonaga,"University of California, San Diego",1
+2150,Anastasia Smirnova,San Francisco State University,1
+2151,Andre M. Cravo,Universidade Federal do ABC,1
+2152,Andrea Bender,University of Bergen,1
+2153,Andrea E Martin,Max Planck Institute for Psycholinguistics,1
+2154,Andrea Hiott,Universität Heidelberg,1
+2155,Andreas Arslan,Central European University,1
+2156,Andrew Hedding,University of Washington,1
+2157,Andreas Baumann,University of Vienna,1
+2158,Andreas Bulling,University of Stuttgart,1
+2159,Andreas Jarvstad,"City, University of London",1
+2160,Andreas Mädebach,Universidad Pompeu Fabra,1
+2161,Andreas Nürnberger,Otto von Guericke University,1
+2162,Andreas Olsson,"Clinical Neuroscience, Division Psychology",1
+2163,Andreas Scheicher,TU Wien,1
+2164,Andreas Vlachos,University of Cambridge,1
+2165,Alexandra Lockwood,University of San Diego,1
+2166,Alexandra Hering,Tilburg University,1
+2167,Alexandra Carstensen,Arizona State University,1
+2168,Agnes Kovacs,CEU,1
+2169,Adan Alberto Gomez,Rensselaer Polytechnic Institute,1
+2170,Adarsh Palaskar,Indian Institute of Technology Jodhpur,1
+2171,Adel Chaouch-Orozco,Hong Kong Polytechnic University,1
+2172,Adrian Weller,University of Cambridge,1
+2173,Adrien Doerig,University of Osnabrück,1
+2174,Adrien Kérébel,Ecole Normale Supérieure (ENS),1
+2175,Aenne Brielmann,University of Tubingen,1
+2176,Afreen Fatima,University of Delhi,1
+2177,Agnes Rosner,"Institute of Psychology, Leibniz University Hannover",1
+2178,Adam Osth,University of Melbourne,1
+2179,Agnieszka Pluta,University of Warsaw,1
+2180,Ahyeon Choi,Seoul National University,1
+2181,Ai Nghi Diep,Stanford University,1
+2182,Aida Ramezani,University of Toronto,1
+2183,Aida Tarighat,University of Edinburgh,1
+2184,Aidan Runagall-McNaull,University of Melbourne,1
+2185,Aidan Tee,University of Warwick,1
+2186,Aiko Morita,Hiroshima University,1
+2187,Adam Rosiński,University of Warmia and Mazury in Olsztyn,1
+2188,Adam Morris,Princeton University,1
+2189,Ajaz Ahmad Bhat,University Brunei Darussalam,1
+2190,Abe Hofman,University of Amsterdam,1
+2191,Aalok Sathe,Massachusetts Institute of Technology,1
+2192,Aaraam Granera,"University of California, Berkeley",1
+2193,Aaron Baker,Yale University,1
+2194,Aaron Bornstein,"University of California, Irvine",1
+2195,Aaron Buss,University of Tennessee,1
+2196,Aaron Chuey,Stanford University,1
+2197,Aaron Mueller,Northeastern University,1
+2198,Aaron Traylor,Brown University,1
+2199,Abhishek Agrawal,Aix-Marseille Université,1
+2200,Adam Moore,University of Edinburgh,1
+2201,Abhishek Dedhe,Carnegie Mellon University,1
+2202,Abhishek Jaiswal,Indian Institute of Technology Kanpur,1
+2203,Abhishek Singh Narvaria,National Brain Research centre,1
+2204,Abi Tenenbaum,Yale University,1
+2205,Abraham Jacob Fresen,University of Amsterdam,1
+2206,Adam Bulley,Behavioural Insights Team,1
+2207,Adam Chuderski,Jagiellonian University,1
+2208,Adam Chuderski,Jagiellonian University in Krakow,1
+2209,Aila Kirjanen,University of Helsinki,1
+2210,Akhil Abburu,Indian Institute of Technology Delhi,1
+2211,Alexandra Băitanu,University College London,1
+2212,Alexander Martin,University of Groningen,1
+2213,Alex Warstadt,ETH Zurich,1
+2214,Alexander Alexandrov Petrov,Ohio State University,1
+2215,Alexander Basalyga,Independent Researcher,1
+2216,Alexander Blunk,Technische Universität Dresden,1
+2217,Alexander Kranjec,Duquesne University,1
+2218,Alexander Ku,Google DeepMind,1
+2219,Alexander Lew,Massachusetts Institute of Technology,1
+2220,Alexander Lutsevich,Rensselaer Polytechnic Institute,1
+2221,Alexander Michael Hölken,Institute for Philosophy II,1
+2222,Alex Odlum,University of Lausanne,1
+2223,Alexander Noyes,New York University,1
+2224,Alexander P Demos,University of Illinois at Chicago,1
+2225,Alexander Paunov,"CEA Paris-Saclay, Gif-sur-Yvette, France Université de Paris",1
+2226,Alexander Porto,Duquesne University,1
+2227,Alexander S LaTourrette,Haverford College,1
+2228,Alexander S. Weigard,University of Michigan,1
+2229,Alexander Williams,University of Maryland,1
+2230,Alexandra Birch,University of Edinburgh,1
+2231,Alex Shaw,University of Chicago,1
+2232,Alex N Wang,New York University,1
+2233,Akihiro Maehigashi,Shizuoka University,1
+2234,Alejandro Vesga,Princeton University,1
+2235,Akiko Sawada,Kyoto University,1
+2236,Akshay Kumar Jagadish,Helmholtz Munich,1
+2237,Akshi LNU,Johns Hopkins University,1
+2238,Alan Ball,Independent Researcher,1
+2239,Alap Kshirsagar,Technische Universität Darmstadt,1
+2240,Alberto Parola,Copenhagen University,1
+2241,Alejandro Carranza,"University of California, San Diego",1
+2242,Alejandro Curiel,California State University East Bay,1
+2243,Aleksandra Cwiek,Leibniz-Centre General Linguistics,1
+2244,Alessio di Renzo,Institute of Cognitive Sciences and Technologies,1
+2245,Aleksandra Cząstkiewicz,Maria Curie-Skłodowska University,1
+2246,Aleksandra Mroczko-Wasowicz,University of Warsaw,1
+2247,Alessandra A. Silva,University of Wisconsin-Madison,1
+2248,Alessandra Brondetta,University of Turin,1
+2249,Alessandra Puccio,Case Western Reserve University,1
+2250,Alessandro Acciai,University of Messina,1
+2251,Alessandro Lopopolo,University of Potsdam,1
+2252,Alessio Plebe,University of Messina,1
+2253,Anja Feibel Meerwald,Aarhus University,1
+2254,Ann Cale Kruger,Georgia State University,1
+2255,Carissa L Shafto,"Brightfield Strategies, LLC",1
+2256,Anna B Konova,Rutgers University,1
+2257,Biao Huang,South China Normal University,1
+2258,Bien Klomberg,Tilburg University,1
+2259,Bilge Tınaz,Özyeğin University,1
+2260,Bin Guo,northwestern polytechnical univ,1
+2261,Bin Li,Southeast University,1
+2262,BingCheng He,Xidian University,1
+2263,BingKun Wang,Zhengzhou College of Finance and Economics,1
+2264,Birgit Elsner,University of Potsdam,1
+2265,Birgit Hellwig,University of Cologne,1
+2266,Björn Mattes,Technische Universität Darmstadt,1
+2267,Blair C. Armstrong,University of Toronto,1
+2268,Bo Jin,DaLian University of Technology,1
+2269,Bo Yao,Lancaster University,1
+2270,Bob Bramson,Donders Institute,1
+2271,Bob van Tiel,Radboud University Nijmegen,1
+2272,Borys Tam,University College London,1
+2273,Bradli Washington,Massachusetts Institute of Technology,1
+2274,Bram De keersmaecker,Ghent University,1
+2275,Bram van Dijk,Leiden University,1
+2276,Berry Claus,Leibniz University Hannover,1
+2277,Bernhard Egger,Friedrich-Alexander-Universität Erlangen-Nürnberg,1
+2278,Bernd J. Kröger,"Medical School, RWTH Aachen University",1
+2279,Benjamin Bergen,"University of California, San Diego",1
+2280,Begum Yilmaz,Koc University,1
+2281,Bei Zhang,New York University,1
+2282,Bella Fascendini,Princeton University,1
+2283,Ben Morris,University of Chicago,1
+2284,Ben Prystawski,Stanford University,1
+2285,Ben Sterling,Yale University,1
+2286,Benedek Kurdi,University of Illinois,1
+2287,Benedict Krieger,Saarland University,1
+2288,Benjamin F. van Buren,New School,1
+2289,Benoît de Courson,"Max Planck Institute for the Study of Crime, Security and Law",1
+2290,Benjamin Morillon,Aix-Mareille University,1
+2291,Benjamin P Simmonds,University of Adelaide,1
+2292,Benjamin Pitt,Institute for Advanced Study in Toulouse,1
+2293,Benjamin Rottman,University of Pittsburgh,1
+2294,Benjamin Sheller,Rutgers University - Newark,1
+2295,Benjamin Spector,"CNRS, ENS",1
+2296,Benjamin T Cook,Shenkar College,1
+2297,Benoit Favre,Aix-Marseille University,1
+2298,Brandon Carrillo,Yale University,1
+2299,Brandon Matthew Woo,Harvard University,1
+2300,Brandon Papineau,Stanford University,1
+2301,Caitlyn Antal,McGill University,1
+2302,Burcu Arslan,Koc University,1
+2303,Byoung-Kyong Min,Korea University,1
+2304,Byoung-Tak Zhang,Seoul National University,1
+2305,Byron Zhang,Princeton University,1
+2306,Bálint Varga,Central European University,1
+2307,C. Jane Lutken,Rutgers University,1
+2308,C. Shawn Green,University of Wisconsin-Madison,1
+2309,Caiqin Zhou,Brown University,1
+2310,Calum Hartley,Lancaster University,1
+2311,Bryor Snefjella,"University of California, Los Angeles",1
+2312,Calvin Christopher James Lee Deans-Browne,University College London,1
+2313,Cameron C Yetman,University of Toronto,1
+2314,Cameron R Jones,"University of California, San Diego",1
+2315,Camille V Phaneuf,Harvard University,1
+2316,Camilo R. Ronderos,University of Oslo,1
+2317,Can Avcı,Koç University,1
+2318,Cara Su-Yi Leong,New York University,1
+2319,Carine Abraham,University of Edinburgh,1
+2320,Burcu A. Urgen,Bilkent University,1
+2321,Bryan Hong,University of Toronto,1
+2322,Brandon Waldon,Georgetown University,1
+2323,Brian N Yin,New York University,1
+2324,Breanna Amoyaw,University of Manitoba,1
+2325,Breanna K. Nguyen,Yale University,1
+2326,Brennan R Payne,University of Utah,1
+2327,Brennan T Gonering,"University of California, Davis",1
+2328,Brett Fajen,Rensselaer Polytechnic Institute,1
+2329,Bria Long,Stanford University,1
+2330,Brian Christian,University of Oxford,1
+2331,Brian Dillon,University of Massachusetts Amherst,1
+2332,Brian Parkinson,University of Oxford,1
+2333,Bruno Galantucci,Yeshiva University,1
+2334,Brian Pennisi,New York University,1
+2335,Bridget Leonard,University of Washington,1
+2336,Briony Banks,Lancaster University,1
+2337,Britt Anderson,University of Waterloo,1
+2338,Britta U. Westner,"Donders institute for brain, cognition and behaviour",1
+2339,Brittany G. Travers,University of Wisconsin-Madison,1
+2340,Brooke N. Macnamara,Case Western Reserve University,1
+2341,Bruno Cardoso,Tilburg University,1
+2342,Been Kim,Google,1
+2343,Beatrix Lábadi,Institute of Psychology University of Pécs,1
+2344,Beat Meier,University of Bern,1
+2345,Aoxin Luo,Tsinghua University,1
+2346,Antonia Krefeld-Schwalb,Erasmus University Rotterdam,1
+2347,Antonia Olguí,Universidad Adolfo Ibáñez,1
+2348,Antonino Visalli,University of Padova,1
+2349,Anuradha Batabyal,FLAME University,1
+2350,Anurag Dutt,Stony Brook University,1
+2351,Anurag Khare,Indian Institute of Technology Kanpur,1
+2352,Anwesha Mahapatra,Jawaharlal Nehru University,1
+2353,Aobo Wang,NUS,1
+2354,Ara Vartanian,University of Wisconsin-Madison,1
+2355,Antje Meyer,Max Planck Institute for Psycholinguistics,1
+2356,Ardavan S. Nobandegani,McGill University,1
+2357,Arianna Bisazza,University of Groningen,1
+2358,Ariel Goldstein,Hebrew University,1
+2359,Ariel Starr,University of Washington,1
+2360,Arielle Borovsky,Purdue University,1
+2361,Armando Q Angulo-Chavira,Universidad Nacional Auntónoma de México,1
+2362,Armando Quetzalcóatl Angulo Chavira,UNAM,1
+2363,Armando Solar-Lezama,Massachusetts Institute of Technology,1
+2364,Antoine August,Rutgers University - Camden,1
+2365,Antimo Buonocore,Suor Orsola Benincasa University,1
+2366,Arnav Verma,Stanford University,1
+2367,Annahita Sarré,Institut du Cerveau,1
+2368,Anna C. K. van Duijvenvoorde,Leiden University,1
+2369,Anna Krason,Moss Rehabilitation Research Institute,1
+2370,Anna Penzkofer,University of Stuttgart,1
+2371,Anna Petukhova,Philipps University Marburg,1
+2372,Anna Pryslopska,University of Stuttgart,1
+2373,Anna Ubiali,"City, University of London",1
+2374,Anna-Lena Schubert,University of Mainz,1
+2375,Anna-Stiina Wallinheimo,University of Surrey,1
+2376,Anne H K Harrington,Massachusetts Institute of Technology,1
+2377,Anthony Cruz,University of Western Ontario,1
+2378,Annemaree Carroll,University of Queensland,1
+2379,Annemarie Fransen,Máxima Medisch Centrum,1
+2380,Annie Tao,University of Edinburgh,1
+2381,Annika Tjuka,Max Planck Institute for Evolutionary Anthropology,1
+2382,Annika Österdiekhoff,"Research Center Cognitive Interaction Technology (CITEC), Bielefeld University",1
+2383,Annya Dahmani,"University of California, Berkeley",1
+2384,Anqi Hu,University of Delaware,1
+2385,Anthony Chemero,University of Cincinnati,1
+2386,Armina Janyan,New Bulgarian University,1
+2387,Arnav Verma,University of Toronto,1
+2388,Bavo Van Kerrebroeck,McGill University,1
+2389,Baingio Pinna,University of Sassari,1
+2390,Aysecan Boduroglu,Koc University,1
+2391,Ayumi Ohnishi,Kobe University,1
+2392,Ayşegül Özkan,Jagiellonian University,1
+2393,Azadeh Nazemorroaya,"Computational Neuroscience, Max Planck Institute for Biological Cybernetics",1
+2394,Azwayla Taylor,Harvard University,1
+2395,Azzurra Ruggeri,Central European University,1
+2396,Babak Hemmatian,University of Illinois Urbana-Champaign,1
+2397,Bahar Sener,University of Washington,1
+2398,Baorui Xu,Peking University,1
+2399,Ayca Aygun,Tufts University,1
+2400,Barbara Pfeiler,National Autonomous University of Mexico,1
+2401,Barbara Pomiechowska,Central European University,1
+2402,Barbara Pomiechowska,Univeristy of Birmingham,1
+2403,Barbu Revencu,Central European University,1
+2404,Barteld P. Kooi,University of Groningen,1
+2405,Bartug Celik,Central European University,1
+2406,Bartłomiej Kroczek,Jagiellonian University in Krakow,1
+2407,Baskar Theagarayan,University of Huddersfield,1
+2408,Ayesha Khawaja,Stanford University,1
+2409,Ayberk Kaan Güneş,Sabancı University,1
+2410,Arndis Simonsen,Aarhus University,1
+2411,Aslı Aktan Erciyes,Kadir Has University,1
+2412,Artemisia O'bi,-,1
+2413,Artūrs Šilovs,Riga Stradins University,1
+2414,Asaf Yehudai,Hebrew University of Jerus,1
+2415,Asen Nachkov,"INSAIT, Sofia University",1
+2416,Ashish Tara Shivakumar Ireddy,ITMO University,1
+2417,Ashley Binnquist,"University of California, Los Angeles",1
+2418,Ashley D Cook,Air Force Research Laboratory,1
+2419,Asli Ozyurek,Radboud University,1
+2420,Astrid Rybner,Aarhus University,1
+2421,Ayako Belka,Franklin and Marshall College,1
+2422,Asya Achimova,University of Tübingen,1
+2423,Audrey Cayouette,Université Laval,1
+2424,Audrey Leroux,Georgia State University,1
+2425,Aurélie Pistono,Ghent University,1
+2426,Austin Peng,Georgia Institute of Technology,1
+2427,Axel Perini,University of Florence,1
+2428,Aya Meltzer-Asscher,Tel Aviv University,1
+2429,Ayaka Suzuki,Chiba University,1
+2430,Ezgi Mamus,Max Planck Institute for Psycholinguistics,1
+2431,Faezeh Zare,University of the Ryukyus,1
+2432,Male Shiva Ram,University of Hyderabad,1
+2433,Julieta Goldstein,Universidad Torcuato Di Tella,1
+2434,Kaiying Lin,University of Hawai'i,1
+2435,Kaleigh St. Jacques,CArleton University,1
+2436,Kali Chidley,University of Queensland,1
+2437,Kanishk Gandhi,Stanford University,1
+2438,Kara J Blacker,Naval Medical Research Unit - Dayton,1
+2439,Kara Kedrick,Carnegie Mellon University,1
+2440,Kara Weisman,"University of California, Riverside",1
+2441,Karen Schloss,University of Wisconsin-Madison,1
+2442,Karin M. Bausenhart,University of Tuebingen,1
+2443,Karin Roelofs,Donders Institute,1
+2444,Karin Stromswold,Rutgers University,1
+2445,Karishma Nicole Kulshrestha,Carnegie Mellon University,1
+2446,Karla Tann,Maastricht University,1
+2447,Karlo Doroc,University of Melbourne,1
+2448,Karrie E. Godwin,University of Maryland Baltimore County,1
+2449,Karthikeya Ramesh Kaushik,"University of California, Berkeley",1
+2450,Kasia Muldner,Carleton University,1
+2451,Katarina Begus,University of Copenhagen,1
+2452,Katarzyna Bobrowicz,University of Luxembourg,1
+2453,Kaixing Zhao,Northwestern Polytechnical University,1
+2454,Kaitlyn Ng,University College London,1
+2455,Kai Vogeley,University Hospital Cologne,1
+2456,Justin Miranda,California State University East Bay,1
+2457,Julio Martinez,Stanford University,1
+2458,Jun Fang,Indiana University,1
+2459,Jun Kawaguchi,Nagoya University,1
+2460,Junqi Wang,"State Key Laboratory of General Artificial Intelligence, Beijing Institute for General Artificial Intelligence (BIGAI)",1
+2461,Junya Morita,Shizuoka University,1
+2462,Junyu Li,Max Planck Institute for Evolutionary Anthropology,1
+2463,Jussi Palomäki,Finnish Institute for Health and Welfare,1
+2464,Justin J Harsono,Johns Hopkins University Applied Physics Laboratory,1
+2465,Justin Yang,Stanford University,1
+2466,Kai Preuss,Technische Universität Berlin,1
+2467,Jörg Rieskamp,"Faculty of Psychology, University of Basel",1
+2468,Jörg Rieskamp,University of Basel,1
+2469,Jörg Wellmer,"University Hospital Knappschaftskrankenhaus Bochum, Dpt of Neurology, Ruhr-Epileptology",1
+2470,Kaan Berk Taç,TOBB University of Economics and Technology,1
+2471,Kadriye Rüveyda Öztürk,TOBB University of Economics and Technology,1
+2472,Kae Mukai,Faculty of Science and Engineering,1
+2473,Kae Mukai,Waseda University,1
+2474,Kai Görgen,"Bernstein Center for Computational Neuroscience, Carité - Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin",1
+2475,Kate Cain,Lancaster University,1
+2476,Kate Nation,University of Oxford,1
+2477,Kate Stanton,University of Pittsburgh,1
+2478,Ken Watanabe,NTT Communication Science Laboratories,1
+2479,Kaylee Miceli,Duke University,1
+2480,Kazuaki Honda,Nippon Telegraph and Telephone Corporation,1
+2481,Kazuhisa Miwa,Nagoya University,1
+2482,Keanan Joyner,"University of California, Berkeley",1
+2483,Keith Holyoak,"University of California, Los Angeles",1
+2484,Keith L Sherman,Binghamton University,1
+2485,Kelly Kendro,Northern Arizona University,1
+2486,Kelsey Moty,New York University,1
+2487,Ken Watanabe,WASEDA University,1
+2488,Katja Koelkebeck,Hospital and Institute of the University of Duisburg-Essen,1
+2489,Kenji Murase,Mazda Motor Corporation,1
+2490,Kenneth Norman,Princeton University,1
+2491,Kenneth R Koedinger,Carnegie Mellon University,1
+2492,Kenny R Coventry,University of East Anglia,1
+2493,Kensuke Okada,University of Tokyo,1
+2494,Kerem Oktar,Princeton,1
+2495,Kerem Oktar,Princeton University,1
+2496,Kerstin Fröber,University of Cologne,1
+2497,Kayato Nishitsunoi,University of Tokyo,1
+2498,Katja Haeuser,Saarland University,1
+2499,Kate Wisniewski,Rutgers University - Camden,1
+2500,Katherine Adams Shannon,Stanford University,1
+2501,Katerina Chladkova,"Faculty or Arts, Charles University",1
+2502,Katerina Kynclova,"Institute of Psychology, Czech Academy of Sciences",1
+2503,Katharina H. Menn,Max Planck Institute for Human Cognitive and Brain Sciences,1
+2504,Katharina Loibl,University of Education Freiburg,1
+2505,Katharina Wenig,Central European University,1
+2506,Katharina von Kriegstein,TU Dresden University of Technology,1
+2507,Katharina von der Wense,University of Colorado Boulder,1
+2508,Katharine Dommett,University of Sheffield,1
+2509,Katherine D Snelling,Queen's University,1
+2510,Katie Mudd,University of Amsterdam,1
+2511,Katherine Hallin,University of Edinburgh,1
+2512,Katherine M Collins,Massachusetts Institute of Technology,1
+2513,Katherine M Collins,University of Cambridge,1
+2514,Katherine Mortimore,Florida Institute for Human and Machine Cognition,1
+2515,Katherine Trice,Northeastern University,1
+2516,Kathryn O'Nell,Dartmouth College,1
+2517,Kathryn Schuler,University of Pennsylvania,1
+2518,Katie Asaro,Kent State University,1
+2519,Julija Vaitonytė,Tilburg University,1
+2520,Julien Diard,CNRS - Université Grenoble Alpes,1
+2521,Falak Pabari,brown university,1
+2522,Julie Schneider,Louisiana State University,1
+2523,Joe P Magliano,Georgia State University,1
+2524,Joel Fagot,CNRS / Aix-Marseille University,1
+2525,Joerg Dietz,University of Lausanne,1
+2526,Johanna Funk,Philipps University of Marburg,1
+2527,Johanna Katharina Theuer,University of Tübingen,1
+2528,Johanne Nedergaard,University of Copenhagen,1
+2529,Johanne Solis,Rutgers University,1
+2530,Johannes Bertram,University of Tübingen,1
+2531,Johannes C. Ziegler,Aix-Marseille University,1
+2532,John Branson Byers,Princeton University,1
+2533,John D Coley,Northeastern University,1
+2534,John Flournoy,Harvard University,1
+2535,John Muchovej,Yale University,1
+2536,John Opfer,Ohio State University,1
+2537,John Pearson,Duke University,1
+2538,John Winder,Johns Hopkins University Applied Physics Laboratory,1
+2539,Jon-Fan Hu,National Cheng Kung University,1
+2540,Jonathan Nicholas,New York University,1
+2541,Jonathan Phillips,Dartmouth College,1
+2542,Jochen Laubrock,University of Potsdam,1
+2543,Jocelyn Celaya,California State University East Bay,1
+2544,Joao Queiroz,"Institute of Arts, Federal University of Juiz de Fora",1
+2545,Jinghong NING,PolyU,1
+2546,Jihyun Rho,University of Wisconsin-Madison,1
+2547,Jinan Xu,"Beijing Key Lab of Traffic Data Analysis and Mining, Beijing Jiaotong University",1
+2548,Jindi Zhang,Huawei,1
+2549,Jindou Chen,Shanghai Jiao Tong University,1
+2550,Jing Li,Icahn School of Medicine at Mount Sinai,1
+2551,Jing Zhang,Tianjin University,1
+2552,Jing Zhou,Auckland University of Technology,1
+2553,Jingfeng Zhang,University of Illinois Urbana Champaign,1
+2554,Jingmeng Li,Fudan University,1
+2555,Joanna Rączaszek-Leonardi,University of Warsaw,1
+2556,Jingyan Sun,University of Tokyo,1
+2557,Jingyi Sun,Franklin and Marshall College,1
+2558,Jingyin Zhu,Zhejiang University,1
+2559,Jinhan Zhang,University of Hong Kong,1
+2560,Jiyue Yang,University of Macau,1
+2561,Joachim Meyer,Tel Aviv University,1
+2562,Joakim Sundh,Uppsala University,1
+2563,Joan Kim,Northeastern University,1
+2564,Jonathan R. Brennan,University of Michigan,1
+2565,Jonathan Ragan-Kelley,Massachusetts Institute of Technology,1
+2566,Joo-Hyun Song,Brown University,1
+2567,Julia M Haaf,University of Potsdam,1
+2568,Joshua S Rule,"University of California, Berkeley",1
+2569,Joy Fan,Case Western Reserve University,1
+2570,Jozsef Fiser,Central European University,1
+2571,Judith Danovitch,University of Louisville,1
+2572,Judith Holler,Radboud University,1
+2573,Judith Schmidt,Chair of Vocational Education,1
+2574,Jules Brochard,University of Bonn,1
+2575,Jules Torgue,University of Edinburgh,1
+2576,Julia Watson,University of Toronto,1
+2577,Joshua Krause,University of Groningen,1
+2578,Julia Wolf,Ruhr University Bochum,1
+2579,Julian Berger,Max Planck Institute for Human Development,1
+2580,Julian Marewski,University of Lausanne,1
+2581,Juliana E. Trach,Yale University,1
+2582,Julianne Wilson,Lehigh University,1
+2583,Julie L. Booth,Temple University,1
+2584,Julie Maria Ejby Pedersen,University of Edinburgh,1
+2585,Julie Rochat,b<>com,1
+2586,Joshua P White,Massachusetts Institute of Technology,1
+2587,Joshua Knobe,Yale University,1
+2588,Joost Agelink van Rentergem,Netherlands Cancer Institute,1
+2589,Josep Call,University of St Andrews,1
+2590,Joost Vennekens,KU Leuven,1
+2591,Jordan Lei,New York University,1
+2592,Jordan W. Suchow,Stevens Institute of Technology,1
+2593,Jorge A Flores,Pontificia Universidad Católica de Chile,1
+2594,Jorge Alvarado,Pontificia Universidad Javeriana,1
+2595,Jorge Valdés Kroff,University of Florida,1
+2596,Jori Blankestijn,MemoryLab,1
+2597,Josef Urbanec,"Faculty od Medicine in Hradec Kralove, Charles University",1
+2598,Joseph Denning,"University of California, Los Angeles",1
+2599,Joshua Hew,University of Edinburgh,1
+2600,Joseph Jay Williams,University of Toronto,1
+2601,Joseph Kwon,Massachusetts Institute of Technology,1
+2602,Joseph M Barnby,"Royal Holloway, University of London",1
+2603,Josephine Beryl Fisher,University Paderborn,1
+2604,Josette M.P. Gevers,Eindhoven University of Technology,1
+2605,Josh de Leeuw,Vassar College,1
+2606,Joshua Blickle,HBK-Zwickau,1
+2607,Joshua C Glass,Binghamton University,1
+2608,Kesong Cao,University of Wisconsin-Madison,1
+2609,Kevin A Smith,Massachusetts Institute of Technology,1
+2610,Kevin Brown,Oregon State University,1
+2611,Kevin Ellis,Cornell,1
+2612,Ling Lin,Southwestern University of Finance and Economics,1
+2613,Lingyue Kong,Peking university,1
+2614,Lingyun He,Pennsylvania State University,1
+2615,Linlin Zong,Dalian University of Technology,1
+2616,Linna Wang,"College of Computer Science, Sichuan University",1
+2617,Liqi Zhu,Institute of Psychology,1
+2618,Lisa Feldman Barrett,Northeastern University,1
+2619,Lisanne Schroer,Erasmus University Rotterdam,1
+2620,Lisette De Jonge-Hoekstra,"Psychology, Faculty of Behavioral and Social Sciences, University of Groningen",1
+2621,Lisette De Jonge-Hoekstra,University of Groningen,1
+2622,Liudmyla Feurstein,University of Zurich,1
+2623,Lixing Niu,School of Intelligence Science and Technology,1
+2624,Liyi Zhang,Princeton University,1
+2625,Liying Yang,XiDian University,1
+2626,Lizbeth Lozano,Yale University,1
+2627,Logan A Walls,University of Michigan,1
+2628,Logan Matthew Cross,Stanford University,1
+2629,Logan Richard Nelson,Princeton University,1
+2630,Lorenss Martinsons,Yale University,1
+2631,Line Kruse,Aarhus University,1
+2632,Linda Geerligs,Radboud University,1
+2633,Linda Geerligs,"Donders institute for brain, cognition and behaviour",1
+2634,Liang Xie,"Defense Innovation Institute, Academy of Military Sciences",1
+2635,Lev Blumenfeld,Carleton University,1
+2636,Li Kloostra,Utrecht University,1
+2637,Li Lu,"College of Computer Science, Sichuan University",1
+2638,Li Sheng,PolyU,1
+2639,Li Zhao,"Department of Health Policy and Management, West China School of Public Health and West China Fourth Hospital, Sichuan University",1
+2640,Li Zhu,Hangzhou Dianzi University,1
+2641,Liane Young,Boston College,1
+2642,Liang Du,IEG,1
+2643,Lianghui Yang,East China Normal University,1
+2644,Linas M. Nasvytis,Harvard University,1
+2645,Liangyu Chen,East China Normal University,1
+2646,Lifeng Fan,"State Key Laboratory of General Artificial Intelligence, Beijing Institute for General Artificial Intelligence (BIGAI)",1
+2647,Liga Zarina,University Of Latvia,1
+2648,Liga Zarina,University of Latvia,1
+2649,Lihua Jiang,"Department of Health Policy and Management, West China School of Public Health and West China Fourth Hospital, Sichuan University",1
+2650,Lijiya Chacko,IIT Bombay,1
+2651,Lilian Ye,Prowise Learn,1
+2652,Lin Lin,"University of California, Los Angeles",1
+2653,Lorenz Demey,KU Leuven,1
+2654,Lorenzo Ciccione,Collège de France - PSL University,1
+2655,Lori Lamel,CNRS-LISN,1
+2656,Madeleine Bartlett,University of Waterloo,1
+2657,Luke W. Hyde,University of Michigan,1
+2658,Lusha Zhu,Peking University,1
+2659,Luzhan Yuan,Beijing University of Posts and Telecommunications,1
+2660,MICHAEL Y HU,New York University,1
+2661,Maayan Keshev,Hebrew University of Jerusalem,1
+2662,Mack Briscoe,Harvard University,1
+2663,Maddy L Bowers,Massachusetts Institute of Technology,1
+2664,Made Sri Satyawati,Universitas Udayana,1
+2665,Madeline Helmer Pelgrim,Brown University,1
+2666,Luisa Lugli,University of Bologna,1
+2667,Magdalena Repp,University of Cologne,1
+2668,Magdalena Soukupova,Ecole Normale Superieure,1
+2669,Maisy Hallam,University of Edinburgh,1
+2670,Maja Blesic,Central European University,1
+2671,Makiko Sadakata,"Institute for Logic, Language and Computation",1
+2672,Malathi Thothathiri,George Washington University,1
+2673,Malayka Mottarella,University of Washington,1
+2674,Malcolm Ka Yu Wong,Lancaster University,1
+2675,Lukas Kornemann,University of Bonn,1
+2676,Luisa Andreuccioli,"University of California, San Diego",1
+2677,Lotta Marlen Piefke,University Osnabrück,1
+2678,Lucia Riggio,University of Parma,1
+2679,Lotte Hogeweg,Radboud University,1
+2680,Lottie Devey Smith,University of Exeter,1
+2681,Louis Loock,Osnabrück University,1
+2682,Louis Marti,"University of California, Berkeley",1
+2683,Louis Terenci Hessler Carbonell,Philipps Universität Marburg,1
+2684,Luca Onnis,University of Oslo,1
+2685,Lucas Benjamin,"NeuroSpin Center, , CNRS ERL 9003, INSERM U992, CEA, Université Paris-Saclay",1
+2686,Lucas Lörch,DIPF Leibniz Institute for Research and Information in Education,1
+2687,Lucie Jarůšková,"Faculty or Arts, Charles University",1
+2688,Luigi Rizzi,University of Siena,1
+2689,Lucila Arroyo,"University of California, Irvine",1
+2690,Lucile Vleugels,"University of Colorado, Boulder",1
+2691,Lucy Cui,Rensselaer Polytechnic Institute,1
+2692,Lucy Cui,"University of California, Los Angeles",1
+2693,Lucy Elizabeth Edgar,Durham University,1
+2694,Ludmila Reimer,Ruhr-University Bochum,1
+2695,Ludwig Danwitz,University of Bremen,1
+2696,Luigi Marengo,LUISS,1
+2697,Leticia Pablos Robles,Leiden University,1
+2698,Leshem Choshen,IBM,1
+2699,Leonor Becerra-Bonache,Aix-Marseille University,1
+2700,Kristian Kersting,TU Darmstadt,1
+2701,Klee Schöppl,University of Groningen,1
+2702,Klára E. Finta,University of Vienna,1
+2703,Kohei Kajikawa,University of Tokyo,1
+2704,Koji Mineshima,Keio University,1
+2705,Konstantinos Voudouris,University of Cambridge,1
+2706,Konstantinos of Armaos,University of Lausanne,1
+2707,Kosei Shibata,Kyushu Institute of Technology,1
+2708,Kosta Boskovic,University of Connecticut,1
+2709,Kristian Peter Lorenzen,Aarhus University,1
+2710,Klaus Oberauer,University of Zurich,1
+2711,Kristian Tylen,Aarhus University,1
+2712,Kristie Denlinger,University of Texas at Austin,1
+2713,Kristina Kobrock,University of Osnabrück,1
+2714,Kuan Iao Leong,University College London,1
+2715,Kumar Akash,"Honda Research Institute USA, Inc",1
+2716,Kun He,Wuhan University,1
+2717,Kyana van Eijndhoven,Tilburg University,1
+2718,Kyle Lee,Brown University,1
+2719,Klaus von Heusinger,University of Cologne,1
+2720,Klaus Gramann,Technische Universität Berlin,1
+2721,Kyle Mahowald,University of Texas at Austin,1
+2722,Kianté Fernandez,"University of California, Los Angeles",1
+2723,Kevin J.S. Zollman,Carnegie Mellon University,1
+2724,Kevin Kiy,Maynooth University,1
+2725,Kevin N Lala,University of St Andrews,1
+2726,Kevin O’Neill,Duke University,1
+2727,Kevin P Darby,Florida Atlantic University,1
+2728,Kexin Luo,New York University,1
+2729,Khaled Jedoui,Stanford University,1
+2730,Khuyen N. Le,"University of California, San Diego",1
+2731,Kiera Parece,Harvard University,1
+2732,Klaus Diepold,Technical University Munich,1
+2733,Kimele Persaud,RUTGERS UNIVERSITY-NEWARK,1
+2734,Kinsey A Church,University of Ottawa,1
+2735,Kiran Pala,University of Eastern Finland,1
+2736,Kirsten Rittershofer,"Birkbeck, University College London",1
+2737,Kirstin Bergström,University of Kaiserslautern-Landau,1
+2738,Kirthana Sane,University of Florida,1
+2739,Kit-yu Kitty Yeung,University of Hong Kong,1
+2740,Klara Łucznik,University of Warsaw,1
+2741,Kyle M Samson,Franklin & Marshall College,1
+2742,Kyogu Lee,Seoul National University,1
+2743,Leonidas A. A. Doumas,University of Edinburgh,1
+2744,Leandro E. Rivas,University of Comahue,1
+2745,Lauren Okine,Yale University,1
+2746,Laurent Cohen,Institut du Cerveau,1
+2747,Laurie Santos,Yale University,1
+2748,Layla Unger,University of York,1
+2749,Lazarina Ivanova Georgieva,New Bulgarian University,1
+2750,Lea Kati,Ruhr-University Bochum,1
+2751,Lea Michel,"Radboud university medical center, Donders Institute for Brain, Cognition and Behaviour",1
+2752,Leandro E. Rivas,"IPEHCS, CONICET-UNCo",1
+2753,Lee H de-Wit,University of Camrbridge,1
+2754,Lauren Girouard-Hallam,University of Michigan,1
+2755,Leendert van Maanen,Utrecht University,1
+2756,Lei Pan,National Institute of Education,1
+2757,Lei Shi,University of Stuttgart,1
+2758,Lei Wang,Dalian University of Technology,1
+2759,Lei Wu,School of Computer Science Northwestern Polytechnical University,1
+2760,Lei Yuan,"University of Colorado, Boulder",1
+2761,Leo Niehorster-Cook,"University of California, Merced",1
+2762,Leonardo Lancia,Aix-Marseille University,1
+2763,Lauren H. Howard,Franklin & Marshall College,1
+2764,Laurel Perkins,"University of California, Los Angeles",1
+2765,Kyoko HATSUDA,Kobe University,1
+2766,Larissa Mendoza Straffon,University of Bergen,1
+2767,LIN SHU,South China University of Technology,1
+2768,Lafraire Jérémie,Institut Lyfe Research and Innovation Center,1
+2769,Lafraire Jérémie,Institut Paul Bocuse,1
+2770,Lance Ying,Harvard University,1
+2771,ABHISHEK BABA,Indian Institute of Technology Kanpur,1
+2772,Lara M Southern,Osnabrück University,1
+2773,Lara Pearson,Max Planck Institute for Empirical Aesthetics,1
+2774,Larissa Melville,University of British Columbia,1
+2775,Lars Meyer,Max Planck Institute for Human Cognitive and Brain Sciences,1
+2776,Laura Schlingloff-Nemecz,Central European University,1
+2777,Laura A. Bustamante,Washington University in St Louis,1
+2778,Laura Alexandra Wirth,Universität Potsdam,1
+2779,Laura Batterink,University of Western Ontario,1
+2780,Laura Elaine Strittmatter,ETH Zurich,1
+2781,Laura Getz,University of San Diego,1
+2782,Laura J. Speed,Radboud University,1
+2783,Laura Marquez,Universidad de Antioquia,1
+2784,Laura Saad,US Naval Research Laboratory,1
+2785,Jifan Zhou,Zhejiang University,1
+2786,Jie Sui,University of Aberdeen,1
+2787,Jie Bao,University of Science and Technology of China,1
+2788,Hinano Iida,Nagoya University,1
+2789,Gustaw Opielka,University of Amsterdam,1
+2790,Gwyneth Heuser,Allendale Columbia School,1
+2791,Gyopárka Barbara Lázár,Institute of Psychology,1
+2792,Gyorgy Gergely,Central European University,1
+2793,Gyulten Hyusein,Koç University,1
+2794,Güler Zeynep Sülün,Koç University,1
+2795,HUA FENG,Graduate Institute of Rehabilitation Counseling,1
+2796,Hadar Cohen Duwek,Open University of Israel,1
+2797,Hadas Shavit,Tel Aviv University,1
+2798,Haiyun Huang,South China Normal University,1
+2799,Haley Vlach,University of Wisconsin-Madison,1
+2800,Han L. J. van der Maas,University of Amsterdam,1
+2801,Han Wang,Xidian University,1
+2802,Hanbin Go,University of Waterloo,1
+2803,Hande Sodacı,Koç University,1
+2804,Hanguang Wang,Tianjin University,1
+2805,Hanna-Sophia Widhoelzl,University of Amsterdam,1
+2806,Hannah Cha,Stanford University,1
+2807,Hannah Kimura,Massachusetts Institute of Technology,1
+2808,Guro Stensby Sjuls,Norwegian University of Science and Technology,1
+2809,Guillermo Tomás Faci,Archivo,1
+2810,Guillermo Puebla,Universidad de Tarapacá,1
+2811,Grace Qiyuan Miao,"University of California, Los Angeles",1
+2812,Giovanni Petri,Northeastern University London,1
+2813,Giovanni Sileno,University of Amsterdam,1
+2814,Giulia Borriello,Kent State University,1
+2815,Gloria Kang,Massachusetts Institute of Technology,1
+2816,Gloria Wong,University of Reading,1
+2817,Gordon Brown,University of Warwick,1
+2818,Gouravmoy Boruah,Indian Institute of Technology Kanpur,1
+2819,Grace Brown,Stanford University,1
+2820,Grace Roessling,Rensselaer Polytechnic Institute,1
+2821,Guido Marvel Linders,University of Zurich,1
+2822,Greg Trafton,Naval Research Laboratory,1
+2823,Gregg Solomon,US National Science Foundation,1
+2824,Gregory Bowers,"BAE Systems, Inc, Space & Mission Systems",1
+2825,Grgur Kovač,INRIA,1
+2826,Guadalupe Maria Diaz,University of Florida,1
+2827,Guang Rong,University of Helsinki,1
+2828,Guanglu Wang,Dalian University of Technology,1
+2829,Guangyuan Jiang,Massachusetts Institute of Technology,1
+2830,Hannah L. Goh,Nanyang Technological University,1
+2831,Hannah Plueckebaum,University of Kaiserslautern-Landau,1
+2832,Hannes Rosenbusch,University of Amsterdam,1
+2833,Heng Li,Sichuan International Studies University,1
+2834,Heike M. Buhl,Paderborn University,1
+2835,Helen Schmidt,Temple University,1
+2836,Helen Zhao,University of Melbourne,1
+2837,Helen de Hoop,Radboud University,1
+2838,Helena Aparicio,Cornell University,1
+2839,Helena Miton,Santa Fe Institute,1
+2840,Hemali Angne,Rutgers University - New Brunswick,1
+2841,Hendrik Siebe,University of Groningen,1
+2842,Hengyuan Zhang,Tsinghua University,1
+2843,Hedderik van Rijn,SlimStampen BV,1
+2844,Henk van Steenbergen,Leiden University,1
+2845,Henrique Tavares Dias Perissinotto,Federal University of Juiz de Fora,1
+2846,Henry Conklin,University of Edinburgh,1
+2847,Hernan Quintero,Universidad de la República,1
+2848,Hidehito Honda,University of Tokyo,1
+2849,Hideki Goya,University of the Ryukyus,1
+2850,Hidezo Suganuma,University of Tokyo,1
+2851,Himanshu Yadav,Indian Institute of Technology Kanpur,1
+2852,Hee Seung Lee,Yonsei University,1
+2853,Heather Kirkorian,University of Wisconsin-Madison,1
+2854,Hanqi Chen,University of Toronto Scarborough,1
+2855,Harm Brouwer,Tilburg University,1
+2856,Hanqi Zhou,University of Tübingen,1
+2857,Hao Tang,School of Informatics,1
+2858,Hao Wen,Tsinghua University,1
+2859,Haoliang Wang,"University of California, San Diego",1
+2860,Haoxue Fan,Harvard University,1
+2861,Haoyin Xu,"University of California, San Diego",1
+2862,Haoyu Zhang,University of Toronto,1
+2863,Harin Lee,Max Planck Institute for Human Cognitive and Brain Sciences,1
+2864,Harmen Gudde,Utrecht University,1
+2865,Heather Burnett,CNRS,1
+2866,Harmen de Weerd,"Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence",1
+2867,Harry D. Coulson,University College London,1
+2868,Harshada Vinaya,"University of California, San Diego",1
+2869,Haruko Sugiyama,Kao Corporation,1
+2870,Harumi Kobayashi,Tokyo Denki University,1
+2871,Hayate Funakura,Kyoto University,1
+2872,Hazel Clare Gordon,University of Sheffield,1
+2873,Heath A. Demaree,Case Western Reserve University,1
+2874,Giovanni Cassani,Tilburg University,1
+2875,Giorgio Gronchi,University of Florence,1
+2876,Giorgia D'Innocenzo,Universidade de Lisboa,1
+2877,Foivos Kotsogiannis,"American College of Greece, Deree",1
+2878,Fiorenzo Colarusso,University of Sussex,1
+2879,Floor Meewis,CNRS / Aix-Marseille University,1
+2880,Florent Meyniel,"CEA Paris-Saclay, Gif-sur-Yvette, France Université de Paris",1
+2881,Florian Hintz,Philipps University,1
+2882,Florian I Seitz,University of Basel,1
+2883,Florian Sense,"Infinite Tactics, LLC",1
+2884,Flurina L. Brodwolf,University of Bern,1
+2885,Foinant Damien,Université de Bourgogne,1
+2886,Fosca Al Roumi,"NeuroSpin Center, CEA, INSERM, Université Paris-Saclay",1
+2887,Fernanda Ferreira,Department of Psychology,1
+2888,Frances Jiang,"University of California, Santa Barbara",1
+2889,Francesca Bonalumi,Central European University,1
+2890,Francesca Capuano,University of Tübingen,1
+2891,Francesco Bianchini,University of Bologna,1
+2892,Francesco Marchi,Ruhr University Bochum,1
+2893,Francesco Poli,University of Cambridge,1
+2894,Francisco Cossavella,"Laboratorio de Inteligencia Artificial Aplicada Instituto de Investigación en Ciencias de la Computación, CONICET- UBA",1
+2895,Francisco Cruz,"Faculty of Psychology, University of Lisbon",1
+2896,Fiona Jordan,University of Bristol,1
+2897,Fernand Gobet,London School of Economics and Political Science,1
+2898,Frank Bremmer,Philipps University Maburg,1
+2899,Fedor Scholz,University of Tübingen,1
+2900,Falk Lieder,"University of California, Los Angeles",1
+2901,Fanyi Mo,Northwestern University,1
+2902,Faria Sana,Athabasca University,1
+2903,Farnaz Tehranchi,Pennsylvania State University,1
+2904,Fatemeh Mahdinia,Rutgers University,1
+2905,Fatih Yavuz,Bilkent University,1
+2906,Fausto Carcassi,University of Amsterdam,1
+2907,Federico Adolfi,Ernst-Strüngmann Institute for Neuroscience,1
+2908,Fei Wang,South China Normal University,1
+2909,Feng Zhang,Academy of Military Sciences,1
+2910,Feiyi Fan,"Institute of Computing Technology, Chinese Academy of Sciences",1
+2911,Felicia Hardi,University of Michigan,1
+2912,Felipe D Toro Hernandez,Universidade Federal do ABC,1
+2913,Felipe DeBrigard,Duke University,1
+2914,Felix Anthony Sosa,Harvard University,1
+2915,Felix Jedidja Binder,"University of California, San Diego",1
+2916,Feng Cheng,New York University,1
+2917,Feng Huang,Xinjiang university,1
+2918,Franco bagnoli,University of Florence,1
+2919,Frank Jäkel,TU Darmstadt,1
+2920,Gioacchino Garofalo,University of Bologna,1
+2921,Georgia Loukatou,Stanford University,1
+2922,Garvin Brod,DIPF Leibniz Institute for Research and Information in Education,1
+2923,Gary Lupyan,University of Wisconsin-Madison,1
+2924,Gasper Begus,"University of California, Berkeley",1
+2925,Gaston Saux,"Centro de Investigaciones en Psicología y Psicopedagogía, Pontificia Universidad Católica Argentina",1
+2926,Gelareh Mohammadi,UNSW,1
+2927,Gemma Boleda,Universitat Pompeu Fabra,1
+2928,George Rocco Flint,"University of California, Berkeley",1
+2929,Georgi Milev Karadzhov,University of Cambridge,1
+2930,Georgia-Ann Carter,University of Edinburgh,1
+2931,Gaoyun Lin,College of Computer Science and Technology,1
+2932,Gerhard Jäger,Tübingen University,1
+2933,Gerly Tamm,Ghent University,1
+2934,Gerrit Jan Kootstra,Radboud University,1
+2935,Gert-Jan Thomas Schoenmakers,Utrecht University,1
+2936,Gertjan van Noord,University of Groningen,1
+2937,Ghislaine Dehaene-Lambertz,"NeuroSpin Center, CEA, INSERM, Université Paris-Saclay",1
+2938,Gidon T. Frischkorn,University of Zurich,1
+2939,Gina Kuperberg,Tufts University,1
+2940,Gareth Roberts,University of Pennsylvania,1
+2941,Gaowei Zhang,Beijing University of Posts and Telecommunications,1
+2942,Fransisca Hapsari,Technische Universität Darmstadt,1
+2943,Fritz Günther,Humboldt-Universität zu Berlin,1
+2944,Franziska Brändle,Max Planck Institute for Biological Cybernetics,1
+2945,François Vachon,Université Laval,1
+2946,Fred Morstatter,USC Information Sciences Institute,1
+2947,Frederic Alexandre,Inria-Research,1
+2948,Frederic Becker,University of Tübingen,1
+2949,Frederieke Nicola Wullf,Aarhus University,1
+2950,Frederik Andersen,University of Southern Denmark,1
+2951,Frieda Rong,Stanford University,1
+2952,Gabriel A. Radvansky,University of Notre Dame,1
+2953,Gang Luo,Nanchang University,1
+2954,Gabriel Grand,Massachusetts Institute of Technology,1
+2955,Gabriel Pernell,Johns Hopkins University,1
+2956,Gabriel Stanovsky,Hebrew University of Jerusalem,1
+2957,Gaia Molinaro,"University of California, Berkeley",1
+2958,Gail D. Heyman,"University of California, San Diego",1
+2959,Gail M Rosenbaum,New York University,1
+2960,Gal Raz,Massachusetts Institute of Technology,1
+2961,Gal Sasson,Technion - Israel Institute of Technology,1
+2962,Hina Kimura,Graduate School of Tokyo Denki University,1
+2963,Hiroaki Wagatsuma,Kyushu Institute of Technology,1
+2964,Jidong Tian,Shanghai Jiao Tong University,1
+2965,Hirokazu Nosato,National Institute of Advanced Industrial Science and Technology (AIST),1
+2966,Jason Darwin Liu,University of Cambridge,1
+2967,Jason Naradowsky,University of Tokyo,1
+2968,Javier Alejandro Masís,Princeton University,1
+2969,Jay McClelland,Stanford University,1
+2970,Jay Rueckl,University of Connecticut,1
+2971,Jean-Baptiste André,École Normale Supérieure - PSL,1
+2972,Jean-Charles Pelland,University of Bergen,1
+2973,Jean-Louis Dessalles,Institut Polytechnique de Paris,1
+2974,Jean-Marc Josset,Orange Labs,1
+2975,Jean-Marc Josset,b<>com,1
+2976,Jean-Pierre Thibaut,University of Bourgogne Franche-Comté,1
+2977,Jean-Pierre Thibaut,Université de Bourgogne,1
+2978,Jeff Brantingham,"University of California, Los Angeles",1
+2979,Jeff Orchard,University of Waterloo,1
+2980,Jeffrey K. Bye,University of Minnesota,1
+2981,Jeffrey Lidz,University of Maryland,1
+2982,Jeffrey Maloney,BYU-Hawaii,1
+2983,Jeffrey Zemla,Syracuse University,1
+2984,Jennifer D/ Ryan,Baycrest,1
+2985,Jason Baldridge,Google,1
+2986,Jason A. Shaw,Yale University,1
+2987,Jasmin L. Walter,University of Osnabrück,1
+2988,Jan Peters,Technische Universität Darmstadt,1
+2989,James White,University College London,1
+2990,Jamie A O'Reilly,King Mongkut's Institute of Technology Ladkrabang,1
+2991,Jamie Amemiya,Occidental College,1
+2992,Jamie Chin Chiu,Princeton University,1
+2993,Jan Chromý,"Faculty of Arts, Charles University",1
+2994,Jan García Olier,University of Zurich,1
+2995,Jan Jastrzebski,Jagiellonian University,1
+2996,Jan Kremláček,"Faculty od Medicine in Hradec Kralove, Charles University",1
+2997,Jan Pfänder,"Institut Jean Nicod, ENS-PSL, CNRS",1
+2998,Jasemina Tzallas,Philipps-Universität Marburg,1
+2999,Jan Treur,Vrije Universiteit Amsterdam,1
+3000,Jan-Philipp Fränken,Stanford University,1
+3001,Jan-Philipp Fränken,University of Edinburgh,1
+3002,Jana Bašnáková,Radboud University Nijmegen,1
+3003,Jana H. M. Bersee,University of Amsterdam,1
+3004,Jane Yang,University of Texas at Austin,1
+3005,Janina A Hoffmann,University of Bath,1
+3006,Jared Moore,Stanford University,1
+3007,Jennifer Kaminski,Wright State University,1
+3008,Jennifer Roche,Kent State University,1
+3009,Jennifer Sander,Max Planck Institute for Psycholinguistics,1
+3010,Jianjing Kuang,University of Pennsylvania,1
+3011,Jiaheng Han,Peking University,1
+3012,Jiajun GAO,University of Nottingham Ningbo China,1
+3013,Jiajun Wu,Stanford University,1
+3014,Jiajun Yu,China Agricultural University,1
+3015,Jialing Liang,Universitat Pompeu Fabra,1
+3016,Jianfei Shen,"Institute of Computing Technology, Chinese Academy of Sciences",1
+3017,Jiangtian Li,University of Toronto Scarborough,1
+3018,Jiangxue Valentina Ning,New School,1
+3019,Jianping Zhu,Dalian University of Technology,1
+3020,Jessica Wang,Lancaster University,1
+3021,Jianshu Zhang,School of Cyber Science and Engineering,1
+3022,Jianxiu Jin,South China University of Technology,1
+3023,Jiapeng Li,Xi'an Jiaotong University,1
+3024,Jiaqi Huang,Indiana University,1
+3025,Jiaxuan Li,"University of California, Irvine",1
+3026,Jiayi Wang-Zhao,Harvard University,1
+3027,Jiaying Gao,School of Artificial intenlligence,1
+3028,Jiayuan Mao,Massachusetts Institute of Technology,1
+3029,Jia Ke,University of Melbourne,1
+3030,Jessica Sommerville,University of Toronto,1
+3031,Jennifer St. Jean,University of Alberta,1
+3032,Jeroen Olieslagers,New York University,1
+3033,Jennifer Trueblood,Indiana University Bloomington,1
+3034,Jenny Saffran,University of Wisconsin-Madison,1
+3035,Jens Michaelis,Bielefeld University,1
+3036,Jeong Mi Park,Seoul National University,1
+3037,Jeong Yeon Shin,Department of Computer Science,1
+3038,Jeonghwa Cho,University of Michigan,1
+3039,Jeremy McMahan,University of Wisconsin-Madison,1
+3040,Jeremy Trevelyan Burman,University of Groningen,1
+3041,Jerome Busemeyer,Indiana University,1
+3042,Jessica Crimston,University of Queensland,1
+3043,Jerome Sackur,Ecole des Hautes Etudes en Sciences Sociales,1
+3044,Jerry T. Ball,Independent,1
+3045,Jesper Sinneker,Radboud University Nijmegen,1
+3046,Jesse Harris,"University of California, Los Angeles",1
+3047,Jessecae K. Marsh,Lehigh University,1
+3048,Jessica C. Lee,University of Sydney,1
+3049,Jessica Cantlon,Carnegie Mellon University,1
+3050,Jessica Chomik,"McGovern Institute for Brain Research, Massachusetts Institute of Technology",1
+3051,James Trujillo,University of Amsterdam,1
+3052,James Stigler,"University of California, Los Angeles",1
+3053,James Mochizuki-Freeman,Indiana University,1
+3054,Ili Ma,Leiden University,1
+3055,Hyosun Lee,"University of California, onn – Storrs and Regional Campuses",1
+3056,Hyungwook Yim,Hanyang University,1
+3057,Hüseyin Yalçıner,Middle East Technical University,1
+3058,Ian Tenney,Google Research,1
+3059,Ida Toivonen,Carleton University,1
+3060,Igor Bascandziev,Harvard University,1
+3061,Ihintza Malharin,"BCBL: Basque Center on Cognition, Brain and Language",1
+3062,Ilenia Falcinelli,Sapienza University of Rome,1
+3063,Iliyana Trifonova,University of East Anglia,1
+3064,Huiying Yang,Tsinghua University,1
+3065,Inga Ibs,"Technical University Darmstadt, Germany",1
+3066,Ingmar Brilmayer,University of Cologne,1
+3067,Ingmar Visser,University of Amsterdam,1
+3068,Ioana Marinescu,Princeton University,1
+3069,Ioanna Spentza,American College of Greece,1
+3070,Irene Mittelberg,RWTH Aachen University,1
+3071,Irina Rish,Mila - Quebec AI Institute,1
+3072,Iris Oved,Boston College,1
+3073,Hyoseok Kim,Southern Connecticut State University,1
+3074,Huiqi Hu,"Beijing Key Lab of Traffic Data Analysis and Mining, Beijing Jiaotong University",1
+3075,Iris Vilares,University of Minnesota,1
+3076,Honghong Bai,Radboud University,1
+3077,Holden Haertl,University of Kassel,1
+3078,Holger Diessel,Department of English,1
+3079,Holly Elizabeth Jenkins,University of Oxford,1
+3080,Holly Palmeri,"University of California, Berkeley",1
+3081,Hong Chen,Tsinghua University,1
+3082,Hong Liu,Xi'an Jiaotong-Liverpool University,1
+3083,Hong Rao,Nanchang University,1
+3084,Hongdian Zhang,the Hong Kong University of Science and Technology,1
+3085,Hongzhou Wu,NUDT,1
+3086,Hui-Xin Cai,National Cheng Kung University,1
+3087,Hoshmand Malaie,"University of California, Merced",1
+3088,Hossam Zeitoun,University of Warwick,1
+3089,Huang Ham,Department of Psychology,1
+3090,Hugh Rabagliati,University of Edinburgh,1
+3091,Hugo Mercier,CNRS,1
+3092,Hui Gao,Tianjin University,1
+3093,Hui Lan,Beijing University of Technology,1
+3094,Hui Wei,Fudan University,1
+3095,Iris Oved,Independent Scholar,1
+3096,Iris van Rooij,Radboud University,1
+3097,James E. Corter,Columbia University,1
+3098,Jaimie E Lee,University of New South Wales,1
+3099,Jacob Habgood,SUMO Digital,1
+3100,Jacolien van Rij,University of Groningen,1
+3101,Jacopo Romoli,Heinrich Heine Universität Düsseldorf,1
+3102,Jacqueline Harding,Stanford University,1
+3103,Jacques Pesnot Lerousseau,"Institut for Communication, Language and the Brain",1
+3104,Jad Soucar,"University of California, Los Angeles",1
+3105,Jade Terry,Duke University,1
+3106,Jai Aggarwal,University of Toronto,1
+3107,Jakob Pete Niedermann,Max Planck Institute for Empirical Aesthetics,1
+3108,Jack Merullo,Brown University,1
+3109,Jakub Dotlačil,Utrecht University,1
+3110,Jakub Krukar,University of Muenster,1
+3111,Jakub Suchojad,Rutgers University,1
+3112,Jakub Szymanik,University of Trento,1
+3113,James A C Myers,University of Sheffield,1
+3114,James Adaryukov,Indiana University,1
+3115,James Brand,Charles University,1
+3116,James Dixon,University of Connecticut,1
+3117,Jack W Silcox,University of Utah,1
+3118,J. Malcolm McCurry,Arcfield,1
+3119,Isaac Christian,Princeton University,1
+3120,Ishita Dasgupta,Google DeepMind,1
+3121,Isaac Handley-Miner,Boston College,1
+3122,Isaac Kinley,University of Toronto,1
+3123,Isabel Berwian,Princeton University,1
+3124,Isabella Fioravante,Pontificia Universidad Católica de Chile,1
+3125,Isabella Rose Sky Klopukh,Florida Atlantic University,1
+3126,Isabelle Dautriche,CNRS / Aix-Marseille University,1
+3127,Isabelle Dautriche,Université Aix-Marseille/CNRS,1
+3128,Isabelle M Jacques,Harvard University,1
+3129,Isobel Wisher,Aarhus University,1
+3130,J I Amaro-Fuenzalida,Pontificia Universidad Católica de Chile,1
+3131,Ivan Aslanov,Universidad de Chile,1
+3132,Ivan Grahek,Brown University,1
+3133,Ivana Domazetoska,University of Melbourne,1
+3134,Ivar R Hannikainen,University of Granada,1
+3135,Ivonnia M Flores Bravo,National Scientific and Technological Council of Argentina,1
+3136,Ivonnia M Flores Bravo,Pontificia Universidad Católica Argentina,1
+3137,Ivy Xiao He,Brown University,1
+3138,Izabele Jonusaite,Massachusetts Institute of Technology,1
+3139,Šárka Šimáčková,"Faculty or Arts, Palacký University",1
